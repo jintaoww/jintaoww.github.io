@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /biography/
-author_profile: true
+author_profile: false
 ---
 
 {% if author.googlescholar %}

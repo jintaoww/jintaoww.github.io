@@ -28,12 +28,12 @@ To be updated...
 
 ### Demo1: **RDARS for Localization**  
   - Title: Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-Aided Integrated Sensing and Communication   
-     *
+     ![Demo1](https://github.com/jintaoww/jintaoww.github.io/blob/1ed05acc7cd414d929db144e65da4ea0940c4964/images/RDARS-Platform.png)
 
 
 ### Demo2: **Vision-aided Multi-user Sensing and Communications**
   - Title: Vision-aided Multi-user Beam Training and Tracking for mmWave Massive MIMO Communications  
-     *
+     ![Demo2](https://github.com/jintaoww/jintaoww.github.io/blob/1ed05acc7cd414d929db144e65da4ea0940c4964/images/Vision-Plateform.png)
 
 
 
@@ -56,7 +56,7 @@ To be updated...
      Funded by FDCT under Grant  0036/2019/A1.  
 
      *Student investigator*, in charge of the prototype verification of wireless information and energy transmission based on NI USRP.  
-     
+
 
 
 

@@ -29,12 +29,12 @@ To be updated...
 
 ### Demo1: **RDARS for Localization**  
   - Title: Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-Aided Integrated Sensing and Communication   
-     ![RDARS-Platform](https://github.com/jintaoww/jintaoww.github.io/blob/master/images/RDARS-Platform.png)
+     ![RDARS-Platform](/master/images/RDARS-Platform.png)
 
 
 ### Demo2: **Vision-aided Multi-user Sensing and Communications**
   - Title: Vision-aided Multi-user Beam Training and Tracking for mmWave Massive MIMO Communications  
-     ![Vision-Platform](https://github.com/jintaoww/jintaoww.github.io/blob/master/images/Vision-Plateform.png)
+     ![Vision-Platform](/master/images/Vision-Plateform.png)
 
 
 

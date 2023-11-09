@@ -255,7 +255,7 @@ defaults:
       path: ""
       type: Biography
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
  # _research
@@ -263,7 +263,7 @@ defaults:
       path: ""
       type: Research
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true     
 

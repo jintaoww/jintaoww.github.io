@@ -18,7 +18,7 @@ author_profile: false
 
 # Journal Papers
 
-- Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Communications**.
+- Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Communications**. [Preprint](https://arxiv.org/abs/2401.05182)
 
 - Binggui Zhou, Xi Yang, **Jintao Wang**, Shaodan Ma, Feifei Gao, Guanghua Yang, "A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems," submitted to **IEEE Transactions on Wireless Communications**.
 

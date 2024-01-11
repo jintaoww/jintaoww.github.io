@@ -2,7 +2,7 @@
 layout: archive
 title: " "
 permalink: /biography/
-author_profile: false
+author_profile: true
 ---
 
 {% if author.googlescholar %}
@@ -18,7 +18,7 @@ author_profile: false
 I’m currently pursuing a Ph.D. degree in the SKL-IOTSC and Department of ECE, University of Macau, Macao SAR, China; My supervisor is [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) (SMIEEE, Associate Director of SKL-IOTSC).  
 
 
-My research interests include massive MIMO, RIS, ISAC, mmWave communication, transceiver design, hardware impairments, convex optimization, and wireless communication prototype.
+My research interests include massive multiple-input multiple-output (MIMO), reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), mmWave communication, transceiver design, hardware impairments, convex optimization, and wireless communication prototype.
 
 # Education  
 

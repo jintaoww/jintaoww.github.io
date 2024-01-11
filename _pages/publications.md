@@ -37,7 +37,7 @@ author_profile: true
 
 # Conference Papers
 
-- **Jintao Wang**, Chengwang Ji, Jiajia Guo, Shaodan Ma, "Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-aided Integrated Sensing and Communication System,'' **2023 IEEE/CIC International Conference on Communications in China (ICCC)**, Dalian, China, 2023.  [Paper](https://ieeexplore.ieee.org/abstract/document/10233300)
+- **Jintao Wang**, Chengwang Ji, Jiajia Guo, Shaodan Ma, "Demo: Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-aided Integrated Sensing and Communication System,'' **2023 IEEE/CIC International Conference on Communications in China (ICCC)**, Dalian, China, 2023, pp. 1-2.  [Paper](https://ieeexplore.ieee.org/abstract/document/10233300)
 
 # Patents
 

@@ -21,7 +21,7 @@ author_profile: false
 
 
 
-- Chengzhi Ma, Xi Yang, **Jintao Wang**, Guanghua Yang, Shaodan Ma, "Reconfigurable Distributed Antennas and Reflecting Surface (RDARS): A New Architecture for Wireless Communications,'' arXiv preprint arXiv:2303.06950.  
+- Chengzhi Ma, Xi Yang, **Jintao Wang**, Guanghua Yang, Shaodan Ma, "Reconfigurable Distributed Antennas and Reflecting Surface (RDARS): A New Architecture for Wireless Communications,'' submitted to IEEE Transactions on Wireless Communications.  
 
 
 - **Jintao Wang**, Shiqi Gong, Qingqing Wu, Shaodan Ma, "RIS-aided MIMO systems with hardware impairments: Robust beamforming design and analysis,'' IEEE Transactions on Wireless Communications, vol. 22, no. 10, pp. 6914-6929, Oct. 2023.  

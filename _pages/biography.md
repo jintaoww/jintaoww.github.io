@@ -24,7 +24,7 @@ I’m currently pursuing a Ph.D. degree in the SKL-IOTSC and Department of ECE, 
 
 - **Physical Layer Transmission**
   
-  Massive multiple-input multiple-output (MIMO), reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), wireless power transfer (WPT)
+  Massive multiple-input multiple-output (MIMO), reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), wireless power transfer (WPT), mmWave Communication
 
 - **Algorithm Design**
 

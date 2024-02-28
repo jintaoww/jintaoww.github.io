@@ -22,7 +22,15 @@ author_profile: true
 
 # Work
 
-To be updated...  
+**Research**
+
+  - To be updated... 
+
+
+**Intern as the application engineer**
+
+  - FPGA development for TDD switching of millimeter-wave frequency converter based on LTE frame structure with LABVIEW NXG.
+  - Serial beam control of various millimeter wave antenna arrays based on Labview NXG.
 
 
 # Demos  
@@ -31,10 +39,14 @@ To be updated...
   - Title: Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-Aided Integrated Sensing and Communication   
      ![RDARS-Platform](/images/RDARS-Platform.png)
 
+  - Description: The RDARS, a flexible and reconfigurable combination of distributed antennas and reflecting surface, 
+is introduced to achieve the ISAC dual functionalities with only the communication signal. The developed RDARS-aided ISAC prototype achieves reliable user localization without compromising communication performance with beam scanning and range estimation.
 
 ### Demo2: **Vision-aided Multi-user Sensing and Communications**
   - Title: Vision-aided Multi-user Beam Training and Tracking for mmWave Massive MIMO Communications  
      ![Vision-Platform](/images/Vision-Plateform.png)
+
+  - Description: We propose a novel vision-based framework that integrates visual data taken by a camera at the base station, to assist in the practical multi-user beam training and tracking. The vision-aided mmWave massive MIMO prototype achieves fast multi-user network access and reliable multi-user mobile communications, laying the foundation for scaling vision-aided wireless communication applications to real-world 6G scenarios and practical implementations.
 
 
 
@@ -59,8 +71,9 @@ To be updated...
      *Student investigator*, in charge of the prototype verification of wireless information and energy transmission based on NI USRP.  
 
 
+# Hardware Resources of the Group
 
-
+  ![Hardware-Platform](/images/Platform.png)
 
 
 

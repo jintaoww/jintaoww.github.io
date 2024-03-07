@@ -67,3 +67,5 @@ I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.e
 
 - International Conference on Future Communications and Networks (FCN)  
 
+- IEEE Vehicular Technology Conference (VTC)
+

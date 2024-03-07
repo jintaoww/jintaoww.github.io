@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-I’m currently pursuing a Ph.D. degree in the SKL-IOTSC and Department of ECE, University of Macau, Macao SAR, China; My supervisor is [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) (SMIEEE, Associate Director of SKL-IOTSC).  
+I’m currently pursuing a Ph.D. degree in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, University of Macau, Macao SAR, China; My supervisor is [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) (SMIEEE, Associate Director of SKL-IOTSC).  
 
 
 <!-- My research interests include massive multiple-input multiple-output (MIMO), reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), mmWave communication, transceiver design, hardware impairments, convex optimization, and wireless communication prototype. -->
@@ -38,15 +38,15 @@ I’m currently pursuing a Ph.D. degree in the SKL-IOTSC and Department of ECE, 
 
 # Education  
 
-- **Aug. 2020 - present**: Doctor of Philosophy in Electrical and Computer Engineering, University of Macau  
+- **Aug. 2020 - present**: Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)  
 
 
-- **Aug. 2018 - Jun. 2021**: Bachelor of Communication Engineering, Jilin University  
+- **Aug. 2018 - Jun. 2021**: Bachelor of Communication Engineering, [Jilin University](https://www.jlu.edu.cn/)  
 
 
 # Professional Experience  
 
-- **Sep. 2022 - Nov. 2022**: Intern in Beijing Zengyi Technology Company  
+- **Sep. 2022 - Nov. 2022**: Intern in [Beijing Zengyi Technology Company](http://www.zengyi-tech.com/wzsy)  
 
 
 # Academic Services  

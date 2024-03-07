@@ -35,14 +35,14 @@ author_profile: true
 
 # Demos  
 
-### Demo1: **RDARS for Localization**  
+### Demo1: **RDARS for Localization**  [Video](https://www.fst.um.edu.mo/personal/shaodanma/)
   - Title: Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-Aided Integrated Sensing and Communication   
      ![RDARS-Platform](/images/RDARS-Platform.png)
 
   - Description: The RDARS, a flexible and reconfigurable combination of distributed antennas and reflecting surface, 
 is introduced to achieve the ISAC dual functionalities with only the communication signal. The developed RDARS-aided ISAC prototype achieves reliable user localization without compromising communication performance with beam scanning and range estimation.
 
-### Demo2: **Vision-aided Multi-user Sensing and Communications**
+### Demo2: **Vision-aided Multi-user Sensing and Communications** [Video](https://www.fst.um.edu.mo/personal/shaodanma/research/)
   - Title: Vision-aided Multi-user Beam Training and Tracking for mmWave Massive MIMO Communications  
      ![Vision-Platform](/images/Vision-Plateform.png)
 

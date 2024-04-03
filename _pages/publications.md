@@ -24,13 +24,13 @@ author_profile: true
 
 - Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Communications**. [Preprint](https://arxiv.org/abs/2401.05182)
 
-- Binggui Zhou, Xi Yang, **Jintao Wang**, Shaodan Ma, Feifei Gao, Guanghua Yang, "A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems," submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2312.04062)
+- Binggui Zhou, Xi Yang, **Jintao Wang**, Shaodan Ma, Feifei Gao, Guanghua Yang, "A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems," submitted to **IEEE Transactions on Wireless Communications**, ***Major revision***. [Preprint](https://arxiv.org/abs/2312.04062)
 
-- Chengzhi Ma, **Jintao Wang**, Xi Yang, Guanghua Yang, Wei Zhang, Shaodan Ma, "RDARS Empowered Massive MIMO System: Two-Timescale Transceiver Design with Imperfect CSI," submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2312.08753)
+- Chengzhi Ma, **Jintao Wang**, Xi Yang, Guanghua Yang, Wei Zhang, Shaodan Ma, "RDARS Empowered Massive MIMO System: Two-Timescale Transceiver Design with Imperfect CSI," submitted to **IEEE Transactions on Wireless Communications**, ***Major revision***. [Preprint](https://arxiv.org/abs/2312.08753)
 
 
 - Chengzhi Ma, Xi Yang, **Jintao Wang**, Guanghua Yang, Wei Zhang, Shaodan Ma
-, "Reconfigurable Distributed Antennas and Reflecting Surface: A New Architecture for Wireless Communications,'' submitted to **IEEE Transactions on Communications**. [Preprint](https://arxiv.org/abs/2303.06950) 
+, "Reconfigurable Distributed Antennas and Reflecting Surface: A New Architecture for Wireless Communications,'' submitted to **IEEE Transactions on Communications**, ***Major revision***. [Preprint](https://arxiv.org/abs/2303.06950) 
 
 
 - **Jintao Wang**, Shiqi Gong, Qingqing Wu, Shaodan Ma, "RIS-aided MIMO systems with hardware impairments: Robust beamforming design and analysis,'' **IEEE Transactions on Wireless Communications**, vol. 22, no. 10, pp. 6914-6929, Oct. 2023. **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/abstract/document/10056867)

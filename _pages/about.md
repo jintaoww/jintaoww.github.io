@@ -19,5 +19,5 @@ redirect_from:
 
 
 <body>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0a0101&w=300&t=n&d=eaDNHe07DDvU8-ERxcx4XBalmsAS-BHZbz2OnbQyz74&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=794&t=n&d=eaDNHe07DDvU8-ERxcx4XBalmsAS-BHZbz2OnbQyz74&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
 </body>

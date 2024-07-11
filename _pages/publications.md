@@ -52,8 +52,12 @@ International Conference on Communication Technology** (ICCT 2024).
 
 # Patents
 
-- Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**. "A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System,'' **Chinese Patent Application**, Feb. 2023.
+- Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System,'' **Chinese Patent Application**, Feb. 2023.
 
+
+<!--
+- Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System,"
+-->
 
 
 

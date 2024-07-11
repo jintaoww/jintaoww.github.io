@@ -25,7 +25,8 @@ author_profile: true
 
 - Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2401.05182)
 
-
+- Yi Chen, **Jintao Wang**, Zheng Shi, Guanghua Yang, Yaru Fu, Hong Wang and Shaodan Ma, "Power Allocation Strategies of Non-Orthogonal HARQ: From Deep Learning Perspective," submitted to **2024 IEEE 24th
+International Conference on Communication Technology** (ICCT 2024).
 
 
 # Journal Papers

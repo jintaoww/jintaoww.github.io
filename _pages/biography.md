@@ -40,13 +40,14 @@ Here is my resume. [CV-CN](https://jintaoww.github.io/files/CV_Zn_Jintao.pdf)  [
 
 # Education  
 
-- **Aug. 2020 - present**: Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)  
+- **Aug. 2020 - Jul. 2024**: Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)  
 
 
 - **Aug. 2018 - Jun. 2021**: Bachelor of Communication Engineering, [Jilin University](https://www.jlu.edu.cn/)  
 
 
 # Professional Experience  
+- **Aug. 2024 - Feb. 2025**: Research Assistant in [SKL-IOTSC](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) 
 
 - **Sep. 2022 - Nov. 2022**: Intern in [Beijing Zengyi Technology Company](http://www.zengyi-tech.com/wzsy)  
 

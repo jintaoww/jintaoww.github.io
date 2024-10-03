@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-**Jintao Wang** received the B.Eng. in 2020 in communication engineering from *Jilin University* , Changchun, China. He received the Ph.D. degree in 2024 with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) and the Department of Electrical and Computer Engineering (ECE), *University of Macau*, Macau, China. He is currently a Research Assistant with the SKL-IOTSC, *University of Macau*. His main research interests aim for the physical layer transmission technology for next-generation wireless communications, including massive MIMO, reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), mmWave communication, transceiver design, hardware impairments, convex optimization , and wireless communication prototype.
+**Jintao Wang** received the B.Eng. in 2020 in communication engineering from *Jilin University* , Changchun, China. He received the Ph.D. degree in 2024 in Electrical and Computer Engineering from *University of Macau*, Macau, China. He is currently a Research Assistant with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), *University of Macau*. His main research interests aim for the physical layer transmission technology for next-generation wireless communications, including massive MIMO, reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), mmWave communication, transceiver design, hardware impairments, convex optimization , and wireless communication prototype.
 
 
 # Contact

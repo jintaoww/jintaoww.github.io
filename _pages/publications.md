@@ -17,10 +17,10 @@ author_profile: true
 
 # Preprints
 
-- **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," submitted to **IEEE Transactions on Vehicular Technology**, resubmit. [Preprint](https://arxiv.org/abs/2404.00598)
+- **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," submitted to **IEEE Transactions on Vehicular Technology**, under review. [Preprint](https://arxiv.org/abs/2404.00598)
 
 
-- Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2401.05182)
+- Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Wireless Communications**, under review. [Preprint](https://arxiv.org/abs/2401.05182)
 
 
 

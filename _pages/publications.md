@@ -22,7 +22,9 @@ author_profile: true
 
 - Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Wireless Communications**, under review. [Preprint](https://arxiv.org/abs/2401.05182)
 
+- Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", submitted to **2025 IEEE ICC WC**.
 
+- Chengwang Ji, Qiaoyan Peng, **Jintao Wang**, Ziqian Pei, Shaodan Ma, "Channel-Aware Mode Switching Enhanced RDARS-Aided Downlink mmWave MIMO Systems", submitted to **2025 IEEE ICC SPC**.
 
 
 # Journal Papers

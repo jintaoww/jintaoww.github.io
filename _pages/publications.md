@@ -59,7 +59,7 @@ International Conference on Communication Technology** (ICCT 2024).
 
 
 
-- Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System," submitted. 
+- Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System," submitted, 2024. 
 
 
 

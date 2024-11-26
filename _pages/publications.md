@@ -34,9 +34,9 @@ author_profile: true
 
 - Shiqi Gong, **Jintao Wang**, Xin Zhao, Shaodan Ma, Chengwen Xing, "A Framework for Hardware Impairments-Aware Multi-Antenna Transceiver Design in IoT Systems via Majorization–Minimization,'' **IEEE Internet of Things Journal**, vol. 10, no. 1, pp. 417-433, 1 Jan.1, 2023. **(JCR Q1, IF: 10.6)** [Paper](https://ieeexplore.ieee.org/abstract/document/9867975)
 
-- Chengzhi Ma, **Jintao Wang**, Xi Yang, Guanghua Yang, Wei Zhang, Shaodan Ma, "RDARS Empowered Massive MIMO System: Two-Timescale Transceiver Design with Imperfect CSI," accepted by **IEEE Transactions on Wireless Communications**. [Preprint](https://arxiv.org/abs/2312.08753)
+- Chengzhi Ma, **Jintao Wang**, Xi Yang, Guanghua Yang, Wei Zhang, Shaodan Ma, "RDARS Empowered Massive MIMO System: Two-Timescale Transceiver Design with Imperfect CSI," **IEEE Transactions on Wireless Communications** (Early Access). [Paper](https://ieeexplore.ieee.org/document/10729705)
 
-- Chengzhi Ma, Xi Yang, **Jintao Wang**, Guanghua Yang, Wei Zhang, Shaodan Ma, "Reconfigurable Distributed Antennas and Reflecting Surface: A New Architecture for Wireless Communications,'' **IEEE Transactions on Communications**. (Early Access) **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/abstract/document/10530348)
+- Chengzhi Ma, Xi Yang, **Jintao Wang**, Guanghua Yang, Wei Zhang, Shaodan Ma, "Reconfigurable Distributed Antennas and Reflecting Surface: A New Architecture for Wireless Communications,'' **IEEE Transactions on Communications**, vol. 72, no. 10, pp. 6583-6598, Oct. 2024. **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/abstract/document/10530348)
 
 - Binggui Zhou, Xi Yang, **Jintao Wang**, Shaodan Ma, Feifei Gao, Guanghua Yang, "A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024. **(JCR Q1, IF: 10.4)** [Paper](https://ieeexplore.ieee.org/document/10600118)
 

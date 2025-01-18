@@ -19,12 +19,11 @@ author_profile: true
 
 - **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," submitted to **IEEE Transactions on Vehicular Technology**, under review. [Preprint](https://arxiv.org/abs/2404.00598)
 
-<!--
-- Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Transactions on Wireless Communications**, under review. [Preprint](https://arxiv.org/abs/2401.05182)-->
 
-- Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", submitted to **2025 IEEE ICC WC**.
+- Pingping Zhang, **Jintao Wang**, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," submitted to **IEEE Internet of Things Journal**, under review. [Preprint](https://arxiv.org/abs/2401.05182)
 
-- Chengwang Ji, Qiaoyan Peng, **Jintao Wang**, Ziqian Pei, Shaodan Ma, "Channel-Aware Mode Switching Enhanced RDARS-Aided Downlink mmWave MIMO Systems", submitted to **2025 IEEE ICC SPC**.
+
+
 
 
 # Journal Papers
@@ -51,6 +50,10 @@ author_profile: true
 
 - Yi Chen, **Jintao Wang**, Zheng Shi, Guanghua Yang, Yaru Fu, Hong Wang and Shaodan Ma, "Power Allocation Strategies of Non-Orthogonal HARQ: From Deep Learning Perspective," accepted by **2024 IEEE 24th
 International Conference on Communication Technology** (ICCT 2024).
+
+- Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", accepted by **2025 IEEE ICC WC**.
+
+- Chengwang Ji, Qiaoyan Peng, **Jintao Wang**, Ziqian Pei, Shaodan Ma, "Channel-Aware Mode Switching Enhanced RDARS-Aided Downlink mmWave MIMO Systems", accepted by **2025 IEEE ICC SPC**.
 
 
 # Patents

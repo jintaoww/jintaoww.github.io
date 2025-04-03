@@ -62,7 +62,7 @@ International Conference on Communication Technology** (ICCT 2024).
 
 # Patents
 
-- Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "基于主被动混合智能超表面的无线通信传输方法及系统 (A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System),'' **Chinese Patent Application**, ZL202310107994.6, CN116056118B.
+- Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "基于主被动混合智能超表面的无线通信传输方法及系统 (A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System)," ZL202310107994.6, CN116056118B.
 
 
 

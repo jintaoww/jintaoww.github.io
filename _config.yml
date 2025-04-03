@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Jintao Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -288,6 +289,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -295,6 +297,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 
 # Archives

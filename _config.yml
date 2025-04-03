@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=dkQrb10AAAAJ"
-  email            :
+  email            :  "wang.jintao@connect.um.edu.mo"
   researchgate     :  # "https://www.researchgate.net/profile/Jintao-Wang-22"
   uri              :
   bitbucket        :
@@ -113,9 +113,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
-  CSDN             : "https://blog.csdn.net/UncleWa?spm=1010.2135.3001.5343"
+  youtube          : 
+  wikipedia        : "https://blog.csdn.net/UncleWa?spm=1010.2135.3001.5343"
+  
 
 
 # Reading Files

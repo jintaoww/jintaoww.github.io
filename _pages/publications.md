@@ -20,7 +20,7 @@ author_profile: true
 - **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," submitted to **IEEE Transactions on Vehicular Technology**, under review. [Preprint](https://arxiv.org/abs/2404.00598)
 
 
-- Pingping Zhang, **Jintao Wang**$*$, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," **IEEE Internet of Things Journal** (Early Access). [Paper](https://ieeexplore.ieee.org/abstract/document/10938954)
+
 
 
 
@@ -30,6 +30,8 @@ author_profile: true
 - **Jintao Wang**, Chengzhi Ma, Shiqi Gong, Xi Yang, Shaodan Ma, "Joint Beamforming Optimization and Mode Selection for RDARS-aided MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 23, no. 11, pp. 17557-17572, Nov. 2024. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10705003)
 
 - **Jintao Wang**, Shiqi Gong, Qingqing Wu, Shaodan Ma, "RIS-aided MIMO systems with hardware impairments: Robust beamforming design and analysis,'' **IEEE Transactions on Wireless Communications**, vol. 22, no. 10, pp. 6914-6929, Oct. 2023. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/abstract/document/10056867)
+
+- Pingping Zhang, **Jintao Wang**$^*$, Yulin Shao, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," **IEEE Internet of Things Journal** (Early Access). **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/abstract/document/10938954)
 
 - Shiqi Gong, **Jintao Wang**, Xin Zhao, Shaodan Ma, Chengwen Xing, "A Framework for Hardware Impairments-Aware Multi-Antenna Transceiver Design in IoT Systems via Majorization–Minimization,'' **IEEE Internet of Things Journal**, vol. 10, no. 1, pp. 417-433, 1 Jan.1, 2023. **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/abstract/document/9867975)
 

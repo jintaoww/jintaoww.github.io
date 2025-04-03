@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=dkQrb10AAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jintao-Wang-22"
+  researchgate     :  # "https://www.researchgate.net/profile/Jintao-Wang-22"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jintaoww"
+  github           : # "https://github.com/jintaoww"
   google_plus      :
   keybase          :
   instagram        :

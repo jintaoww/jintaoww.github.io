@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jintao Wang"
   avatar           : "jintao.png"
-  bio              : "Ph.D. in University of Macau"
+  bio              : "Ph.D."
   location         : "Macau"
-  employer         :
+  employer         : "University of Macau"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=dkQrb10AAAAJ"
   email            :  "wang.jintao@connect.um.edu.mo"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          : 
-  csdn        : "https://blog.csdn.net/UncleWa?spm=1010.2135.3001.5343"
+  wikipedia        : # "https://blog.csdn.net/UncleWa?spm=1010.2135.3001.5343"
   
 
 

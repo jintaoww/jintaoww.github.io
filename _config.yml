@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+theme               : "dark"
 title                    : "Jintao Wang"
 title_separator          : "-"
 name                     : &name "Your Name"

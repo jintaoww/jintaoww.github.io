@@ -5,12 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+# site_theme               : "dark"
 title                    : "Jintao Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -149,6 +149,7 @@ exclude:
   - local
   - log
   - node_modules
+  - minimal-mistakes-jekyll.gemspec
   - package.json*
   - Rakefile
   - README

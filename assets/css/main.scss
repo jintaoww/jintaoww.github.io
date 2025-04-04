@@ -40,4 +40,5 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
+"minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 ;

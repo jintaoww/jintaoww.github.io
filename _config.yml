@@ -149,7 +149,6 @@ exclude:
   - local
   - log
   - node_modules
-  - minimal-mistakes-jekyll.gemspec
   - package.json*
   - Rakefile
   - README

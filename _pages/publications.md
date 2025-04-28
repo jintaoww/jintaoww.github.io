@@ -64,11 +64,11 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 # Patents
 
-- [2] Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "基于主被动混合智能超表面的无线通信传输方法及系统 (A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System)," ZL202310107994.6, CN116056118B.
+2. Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "基于主被动混合智能超表面的无线通信传输方法及系统 (A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System)," ZL202310107994.6, CN116056118B.
 
 
 
-- [1] Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "一种基于增强型分布式主被动混合智能超表面的无线通信传输系统 (An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System)," submitted, 2024. 
+1. Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "一种基于增强型分布式主被动混合智能超表面的无线通信传输系统 (An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System)," submitted, 2024. 
 
 ## Note: Journal Information
 

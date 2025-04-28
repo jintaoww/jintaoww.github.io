@@ -17,7 +17,7 @@ author_profile: true
 
 # Preprints
 
-- **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," submitted to **IEEE Transactions on Vehicular Technology**, Major Revisions. [Preprint](https://arxiv.org/abs/2404.00598)
+
 
 - **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
 Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Major Revisions. 
@@ -29,6 +29,9 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 
 # Journal Papers
+
+- **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," accepted by **IEEE Transactions on Vehicular Technology**.  **(JCR Q2, IF: 6.1)** [Preprint](https://arxiv.org/abs/2404.00598)
+
 - **Jintao Wang**, Chengzhi Ma, Shiqi Gong$\*$, Xi Yang, Shaodan Ma$\*$, "Joint Beamforming Optimization and Mode Selection for RDARS-aided MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 23, no. 11, pp. 17557-17572, Nov. 2024. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10705003)
 
 - **Jintao Wang**, Shiqi Gong$^\*$, Qingqing Wu, Shaodan Ma$^\*$, "RIS-aided MIMO systems with hardware impairments: Robust beamforming design and analysis,'' **IEEE Transactions on Wireless Communications**, vol. 22, no. 10, pp. 6914-6929, Oct. 2023. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/abstract/document/10056867)

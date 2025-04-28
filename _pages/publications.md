@@ -30,7 +30,7 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 # Journal Papers
 
-- **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," accepted by **IEEE Transactions on Vehicular Technology**.  **(JCR Q2, IF: 6.1)** [Preprint](https://arxiv.org/abs/2404.00598)
+- **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided Massive MIMO Systems," accepted by **IEEE Transactions on Vehicular Technology**.  **(JCR Q1, IF: 6.1)** [Preprint](https://arxiv.org/abs/2404.00598)
 
 - **Jintao Wang**, Chengzhi Ma, Shiqi Gong$\*$, Xi Yang, Shaodan Ma$\*$, "Joint Beamforming Optimization and Mode Selection for RDARS-aided MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 23, no. 11, pp. 17557-17572, Nov. 2024. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/document/10705003)
 

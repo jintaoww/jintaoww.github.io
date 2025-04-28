@@ -78,9 +78,9 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 - [IEEE Transactions on Vehicular Technology](https://www.letpub.com.cn/index.php?journalid=3425&page=journalapp&view=detail)
 
--[IEEE Internet of Things Journal](https://www.letpub.com.cn/index.php?journalid=10193&page=journalapp&view=detail)
+- [IEEE Internet of Things Journal](https://www.letpub.com.cn/index.php?journalid=10193&page=journalapp&view=detail)
 
--[IEEE Wireless Communication Letter](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
+- [IEEE Wireless Communication Letter](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
 
 
 

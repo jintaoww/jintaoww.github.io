@@ -70,9 +70,17 @@ s
 
 - Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "一种基于增强型分布式主被动混合智能超表面的无线通信传输系统 (An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System)," submitted, 2024. 
 
-## Remarks
+## Note: Journal Information
+
+- [IEEE Transactions on Wireless Communications](https://www.letpub.com.cn/index.php?journalid=3428&page=journalapp&view=detail)
+
+- [IEEE Transactions on Communications](https://www.letpub.com.cn/index.php?journalid=3372&page=journalapp&view=detail)
 
 - [IEEE Transactions on Vehicular Technology](https://www.letpub.com.cn/index.php?journalid=3425&page=journalapp&view=detail)
+
+-[IEEE Internet of Things Journal](https://www.letpub.com.cn/index.php?journalid=10193&page=journalapp&view=detail)
+
+-[IEEE Wireless Communication Letter](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
 
 
 

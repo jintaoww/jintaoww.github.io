@@ -51,24 +51,24 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 # Conference Papers
 
-- 5. **Jintao Wang**, Chengwang Ji, Jiajia Guo, Shaodan Ma, "Demo: Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-aided Integrated Sensing and Communication System,'' **2023 IEEE/CIC International Conference on Communications in China (ICCC)**, Dalian, China, 2023, pp. 1-2.  [Paper](https://ieeexplore.ieee.org/abstract/document/10233300)
+- [5] **Jintao Wang**, Chengwang Ji, Jiajia Guo, Shaodan Ma, "Demo: Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-aided Integrated Sensing and Communication System,'' **2023 IEEE/CIC International Conference on Communications in China (ICCC)**, Dalian, China, 2023, pp. 1-2.  [Paper](https://ieeexplore.ieee.org/abstract/document/10233300)
 
-- 4. **Jintao Wang**, Chengzhi Ma, Shaodan Ma, "Optimal Design of RDARS-aided Multi-user Systems with Low-resolution DACs," **2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)**, Lucca, Italy, 2024, pp. 536-540. [Paper](https://ieeexplore.ieee.org/document/10694127)
+- [4] **Jintao Wang**, Chengzhi Ma, Shaodan Ma, "Optimal Design of RDARS-aided Multi-user Systems with Low-resolution DACs," **2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)**, Lucca, Italy, 2024, pp. 536-540. [Paper](https://ieeexplore.ieee.org/document/10694127)
 
-- 3. Yi Chen, **Jintao Wang**$^\*$, Zheng Shi$^\*$, Guanghua Yang, Yaru Fu, Hong Wang and Shaodan Ma, "Power Allocation Strategies of Non-Orthogonal HARQ: From Deep Learning Perspective," **2024 IEEE 24th International Conference on Communication Technology (ICCT)**, Chengdu, China, 2024, pp. 482-487. [Paper](https://ieeexplore.ieee.org/document/10946464)
+- [3] Yi Chen, **Jintao Wang**$^\*$, Zheng Shi$^\*$, Guanghua Yang, Yaru Fu, Hong Wang and Shaodan Ma, "Power Allocation Strategies of Non-Orthogonal HARQ: From Deep Learning Perspective," **2024 IEEE 24th International Conference on Communication Technology (ICCT)**, Chengdu, China, 2024, pp. 482-487. [Paper](https://ieeexplore.ieee.org/document/10946464)
 
-- 2. Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", accepted by **2025 IEEE ICC WC**.
+- [2] Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", accepted by **2025 IEEE ICC WC**.
 
-- 1. Chengwang Ji, Qiaoyan Peng, **Jintao Wang**, Ziqian Pei, Shaodan Ma, "Channel-Aware Mode Switching Enhanced RDARS-Aided Downlink mmWave MIMO Systems", accepted by **2025 IEEE ICC SPC**.
+- [1] Chengwang Ji, Qiaoyan Peng, **Jintao Wang**, Ziqian Pei, Shaodan Ma, "Channel-Aware Mode Switching Enhanced RDARS-Aided Downlink mmWave MIMO Systems", accepted by **2025 IEEE ICC SPC**.
 
 
 # Patents
 
-- 2. Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "基于主被动混合智能超表面的无线通信传输方法及系统 (A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System)," ZL202310107994.6, CN116056118B.
+- [2] Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "基于主被动混合智能超表面的无线通信传输方法及系统 (A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System)," ZL202310107994.6, CN116056118B.
 
 
 
-- 1. Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "一种基于增强型分布式主被动混合智能超表面的无线通信传输系统 (An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System)," submitted, 2024. 
+- [1] Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "一种基于增强型分布式主被动混合智能超表面的无线通信传输系统 (An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System)," submitted, 2024. 
 
 ## Note: Journal Information
 

@@ -22,7 +22,6 @@ author_profile: true
 - **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
 Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Major Revisions. 
 
-- Ziqian Pei, **Jintao Wang**, Pingping Zhang, Zheng Shi, Guanghua Yang, Shaodan Ma, "Secure Communication in Dynamic RDARS-Driven Systems," submitted to **IEEE Wireless Communication Letters**, Minor Revisions. [Preprint](https://arxiv.org/abs/2501.10705)
 
 
 
@@ -30,7 +29,9 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 # Journal Papers
 
-9. **Jintao Wang**, Binggui Zhou, Chengzhi Ma, Shiqi Gong, Guanghua Yang, Shaodan Ma, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems," accepted by **IEEE Transactions on Vehicular Technology**.  **(JCR Q1, IF: 6.1)** [Preprint](https://arxiv.org/abs/2404.00598)
+10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," accepted by **IEEE Wireless Communication Letters**. [Preprint](https://arxiv.org/abs/2501.10705)
+
+9. **Jintao Wang**, Binggui Zhou, Chengzhi Ma$^\*$, Shiqi Gong, Guanghua Yang, Shaodan Ma$^\*$, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems," accepted by **IEEE Transactions on Vehicular Technology**.  **(JCR Q1, IF: 6.1)** [Preprint](https://arxiv.org/abs/2404.00598)
 
 6. Pingping Zhang, **Jintao Wang**$^\*$, Yulin Shao$^\*$, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," **IEEE Internet of Things Journal** (Early Access). **(JCR Q1, IF: 8.2)** [Paper](https://ieeexplore.ieee.org/abstract/document/10938954)
 

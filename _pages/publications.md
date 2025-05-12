@@ -29,7 +29,7 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 # Journal Papers
 
-10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," accepted by **IEEE Wireless Communication Letters**. [Preprint](https://arxiv.org/abs/2501.10705)
+10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," accepted by **IEEE Wireless Communication Letters**. **(JCR Q1, IF: 4.6)** [Preprint](https://arxiv.org/abs/2501.10705)
 
 9. **Jintao Wang**, Binggui Zhou, Chengzhi Ma$^\*$, Shiqi Gong, Guanghua Yang, Shaodan Ma$^\*$, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems," accepted by **IEEE Transactions on Vehicular Technology**.  **(JCR Q1, IF: 6.1)** [Preprint](https://arxiv.org/abs/2404.00598)
 

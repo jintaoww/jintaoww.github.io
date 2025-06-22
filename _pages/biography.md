@@ -43,7 +43,7 @@ author_profile: true
 - **Aug. 2020 - Jul. 2024**: Doctor of Philosophy in Electrical and Computer Engineering, [University of Macau](https://www.um.edu.mo/)  
 
 
-- **Aug. 2018 - Jun. 2021**: Bachelor of Communication Engineering, [Jilin University](https://www.jlu.edu.cn/)  
+- **Aug. 2016 - Jun. 2020**: Bachelor of Communication Engineering, [Jilin University](https://www.jlu.edu.cn/)  
 
 
 # Professional Experience  

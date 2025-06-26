@@ -38,7 +38,7 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 
 
-# Journal Papers
+# Journal Papers（$\*$ for Corresponding Authorship）
 
 10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," **IEEE Wireless Communication Letters** (Early Access). **(JCR Q1, IF: 5.5)** [Paper](https://ieeexplore.ieee.org/document/11004011)
 
@@ -66,7 +66,7 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 # Conference Papers
 
 
-3. Yi Chen, **Jintao Wang**$^\*$, Zheng Shi$^\*$, Guanghua Yang, Yaru Fu, Hong Wang and Shaodan Ma, "Power Allocation Strategies of Non-Orthogonal HARQ: From Deep Learning Perspective," **2024 IEEE 24th International Conference on Communication Technology (ICCT)**, Chengdu, China, 2024, pp. 482-487. [Paper](https://ieeexplore.ieee.org/document/10946464)
+3. Yi Chen, **Jintao Wang**, Zheng Shi, Guanghua Yang, Yaru Fu, Hong Wang and Shaodan Ma, "Power Allocation Strategies of Non-Orthogonal HARQ: From Deep Learning Perspective," **2024 IEEE 24th International Conference on Communication Technology (ICCT)**, Chengdu, China, 2024, pp. 482-487. [Paper](https://ieeexplore.ieee.org/document/10946464)
 
 2. **Jintao Wang**, Chengzhi Ma, Shaodan Ma, "Optimal Design of RDARS-aided Multi-user Systems with Low-resolution DACs," **2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)**, Lucca, Italy, 2024, pp. 536-540. [Paper](https://ieeexplore.ieee.org/document/10694127)
 

@@ -21,7 +21,7 @@ author_profile: true
 
 # Preprints
 
-- Weiqiang Tan, Qiang Hua Chen, Jintao Wang, Zheng Shi, and Chunguo Li, ``LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' accepted by **INFOCOM 2025 DeepWireless**.
+- Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, ``LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' accepted by **INFOCOM 2025 DeepWireless**.
 
 - Weiqiang Tan, Lei Ling, Xianda Wu, **Jintao Wang**, Yunfei Li, and Chunguo Li, ``RIS-Assisted MIMO Semantic Communication System for Speech Transmission,'' accepted by **INFOCOM 2025 DeepWireless**.
 

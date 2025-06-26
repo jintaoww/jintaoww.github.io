@@ -21,11 +21,11 @@ author_profile: true
 
 # Preprints
 
-- Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, ``LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' accepted by **INFOCOM 2025 DeepWireless**.
+- Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, ''LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' accepted by **INFOCOM 2025 DeepWireless**.
 
-- Weiqiang Tan, Lei Ling, Xianda Wu, **Jintao Wang**, Yunfei Li, and Chunguo Li, ``RIS-Assisted MIMO Semantic Communication System for Speech Transmission,'' accepted by **INFOCOM 2025 DeepWireless**.
+- Weiqiang Tan, Lei Ling, Xianda Wu, **Jintao Wang**, Yunfei Li, and Chunguo Li, ''RIS-Assisted MIMO Semantic Communication System for Speech Transmission,'' accepted by **INFOCOM 2025 DeepWireless**.
 
-- Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, and Hong Wang, ``Asymptotic Performance Analysis of FAS over Rayleigh Fading Channels,'' accepted by **2025 IEEE/CIC International Conference on Communications in China (ICCC)**.
+- Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, and Hong Wang, ''Asymptotic Performance Analysis of FAS over Rayleigh Fading Channels,'' accepted by **2025 IEEE/CIC International Conference on Communications in China (ICCC)**.
 
 
 - Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", accepted by **2025 IEEE ICC WC**.

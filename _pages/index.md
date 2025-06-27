@@ -1,9 +1,17 @@
 ---
 layout: home
 title: "Jintao Wang"
+excerpt: "Postdoc @ University of Macau | Wireless AI"
+entries_layout: grid
+author_profile: true
 permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  image: /images/hero.jpg
+  caption: "Wireless Optimization • AI • Research"
 ---
 
-### Hello!
+Welcome to my homepage! I am a researcher at the University of Macau.
 
-This is a test to see if the home layout is working.
+{% include feature_row id="intro" %}

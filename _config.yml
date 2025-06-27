@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Jintao Wang"
-  avatar           : "jintao.png"
+  avatar           : # "jintao.png"
   bio              : "Postdoc@UM"
   location         : "Macau, China"
   employer         : "University of Macau"

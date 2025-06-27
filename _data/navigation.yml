@@ -1,27 +1,15 @@
 # main links links
-# main:
-#  - title: "Biography"
-#    url: /biography/  
-
- # - title: "Publications"
-#    url: /publications/
-  
-
-#  - title: "Research"
- #   url: /research/    
-    
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
 main:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
+  - title: "Biography"
+    url: /biography/  
+
   - title: "Publications"
     url: /publications/
+  
+
+  - title: "Research"
+    url: /research/    
+    
+        
   - title: "Blog Posts"
     url: /year-archive/
-  - title: "About"
-    url: /about/

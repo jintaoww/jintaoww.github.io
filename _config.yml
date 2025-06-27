@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Jintao Wang"
-  avatar           : # "jintao.png"
+  avatar           : "jintao.png"
   bio              : "Postdoc@UM"
   location         : "Macau, China"
   employer         : "University of Macau"
@@ -275,21 +275,11 @@ defaults:
       author_profile: true
       share: true     
 
-
-# 启用 minimal mistakes
-remote_theme: mmistakes/minimal-mistakes@4.27.1
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-redirect-from
-# 使用 SCSS
+# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
-  custom: assets/css/custom.scss
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Outputting
 permalink: /:categories/:title/

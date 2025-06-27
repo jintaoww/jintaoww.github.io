@@ -1,0 +1,16 @@
+intro:
+  - image_path: /images/bio-photo.jpg
+    title: "Welcome"
+    excerpt: "I am a postdoc researcher at University of Macau focusing on wireless AI and optimization."
+
+research:
+  - image_path: /images/Demo1-plat.png
+    title: "Research"
+    excerpt: "Explore my work in trajectory optimization, edge intelligence, and resource allocation."
+    url: /research/
+
+contact:
+  - image_path: /images/profile.png
+    title: "Contact"
+    excerpt: "Feel free to reach out via email or visit my Google Scholar profile."
+    url: /about/

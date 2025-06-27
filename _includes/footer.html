@@ -81,44 +81,28 @@
 </script>
 
 
+<!-- Live2D 猫咪模型：白猫 -->
 <!-- Live2D 插件 -->
-<script src="https://cdn.jsdelivr.net/npm/live2d-widget@2.1.4/lib/L2Dwidget.min.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js"></script>
 <script>
-  const tororoPath = "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json";
-  const hijikiPath = "https://unpkg.com/live2d-widget-model-hijiki@1.0.5/assets/hijiki.model.json";
-  let currentModel = null;
-
-  function loadLive2D(modelPath) {
-    const oldCanvas = document.getElementById("live2d");
-    if (oldCanvas) oldCanvas.remove();
-
-    // 使用 2.x 的 Live2D Widget 初始化
-    L2Dwidget.init({
-      model: { jsonPath: modelPath },
-      display: { position: "right", width: 150, height: 300 },
-      mobile: { show: true, scale: 0.5 },
-      react: { opacityDefault: 0.7, opacityOnHover: 1 }
-    });
-  }
-
-  function updateLive2DByTheme() {
-    const isDark = document.body.classList.contains("theme-dark");
-    const modelPath = isDark ? tororoPath : hijikiPath;
-    if (currentModel !== modelPath) {
-      currentModel = modelPath;
-      loadLive2D(modelPath);
+  L2Dwidget.init({
+    model: {
+      jsonPath: "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json",
+    },
+    display: {
+      position: "right",
+      width: 150,
+      height: 300,
+    },
+    mobile: {
+      show: true,
+      scale: 0.5
+    },
+    react: {
+      opacityDefault: 0.7,
+      opacityOnHover: 1
     }
-  }
-
-  // 初始加载 & 监听
-  document.addEventListener("DOMContentLoaded", () => {
-    updateLive2DByTheme();
-
-    const observer = new MutationObserver(() => {
-      updateLive2DByTheme();
-    });
-    observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
   });
 </script>
-<!-- 🌌 星空背景（仅暗色主题显示） -->
+
+

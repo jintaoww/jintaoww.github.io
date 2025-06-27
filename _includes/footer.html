@@ -90,32 +90,22 @@
   const hijikiPath = "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models/packages/live2d-widget-model-hijiki/assets/hijiki.model.json";
 
   function loadLive2D(modelPath) {
-    // 卸载旧模型（Live2D 没有官方 API，这里使用重载 workaround）
-    const oldCanvas = document.querySelector("#live2dcanvas");
-    if (oldCanvas) oldCanvas.remove();
-
-    // 延迟加载，避免 DOM 未准备好
-    setTimeout(() => {
-      L2Dwidget.init({
-        model: {
-          jsonPath: modelPath,
-        },
-        display: {
-          position: "right",
-          width: 150,
-          height: 300,
-        },
-        mobile: {
-          show: true,
-          scale: 0.5
-        },
-        react: {
-          opacityDefault: 0.7,
-          opacityOnHover: 1
-        }
-      });
-    }, 200);
+  const existing = document.getElementById("live2d");
+  if (existing) {
+    existing.remove();
   }
+
+  setTimeout(() => {
+    if (!document.getElementById("live2d")) {
+      L2Dwidget.init({
+        model: { jsonPath: modelPath },
+        display: { position: "right", width: 150, height: 300 },
+        mobile: { show: true, scale: 0.5 },
+        react: { opacityDefault: 0.7, opacityOnHover: 1 }
+      });
+    }
+  }, 200);
+}
 
   function updateLive2DByTheme() {
     const isDark = document.body.classList.contains("theme-dark");

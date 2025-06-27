@@ -280,6 +280,13 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# 启用 minimal mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+minimal_mistakes_skin: "dark"  # 可选 mint, air 等
+
+# 使用 SCSS
+sass:
+  custom: assets/css/custom.scss
 sass:
   custom: assets/css/custom.scss
 

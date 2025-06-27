@@ -275,6 +275,8 @@ defaults:
       author_profile: true
       share: true     
 
+layout: default
+
 # Sass/SCSS
 sass:
   sass_dir: _sass

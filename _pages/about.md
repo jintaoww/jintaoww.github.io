@@ -1,13 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: ""
+permalink: /
 # excerpt: "About me"
 author_profile: true
 #redirect_from: 
 #  - /about/
 #  - /about.html
 ---
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -17,7 +17,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
 # About Me
 **Jintao Wang** received the B.Eng. in 2020 in communication engineering from *Jilin University* , Changchun, China. He received the Ph.D. degree in 2024 in Electrical and Computer Engineering from *University of Macau*, Macau, China. 
 

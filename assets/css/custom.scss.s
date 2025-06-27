@@ -31,3 +31,15 @@ body.theme-light .masthead {
 body.theme-light .archive__item-title {
   color: #222 !important;               // ✅ 稍深色标题，视觉焦点清晰
 }
+
+
+#starfield {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -10;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  pointer-events: none;
+}

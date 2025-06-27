@@ -18,14 +18,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**<font color=Fuchsia>Hello, welcome! </font>**
-# About Me
-**Jintao Wang** received the B.Eng. in 2020 in communication engineering from *Jilin University* , Changchun, China. He received the Ph.D. degree in 2024 in Electrical and Computer Engineering from *University of Macau*, Macau, China. 
+**<font color=Fuchsia>Welcome to my homepage! Thanks for attention! </font>**
 
-He is currently a **Post-doctoral Fellow** with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), *University of Macau*. His main research interests aim for the physical layer transmission technology for next-generation wireless communications, including massive MIMO, reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), mmWave communication, transceiver design, hardware impairments, convex optimization , and wireless communication prototype.
+# About Me
+I received the B.Eng. in 2020 in communication engineering from *Jilin University* , Changchun, China. In 2024, I obtained the Ph.D. degree  in Electrical and Computer Engineering from *University of Macau*, Macau, China. 
+
+I'm currently a **Post-doctoral Fellow** with the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), *University of Macau*. My main research interests aim for the physical layer transmission technology for next-generation wireless communications, including massive MIMO, reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), mmWave communication, transceiver design, hardware impairments, convex optimization , and wireless communication prototype.
 
 
 # Contact
+
+Contact me for further collaboration.
+
 **Email:** <wang.jintao@connect.um.edu.mo> or <jintaowang@um.edu.mo>  
 
 **Address:** Room 5004, Building N21, University of Macau, Avendia da Universidade, Taipa, Macao SAR, China

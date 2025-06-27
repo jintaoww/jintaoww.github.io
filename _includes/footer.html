@@ -50,45 +50,54 @@
 
 
 <!-- 🌗 主题切换按钮 -->
+<!-- 🌗 高级主题切换按钮 -->
 <style>
   #theme-toggle {
     position: fixed;
+    right: 20px;
     bottom: 20px;
-    left: 20px;
-    z-index: 2000;
-    background: #333;
-    color: #fff;
+    width: 42px;
+    height: 42px;
     border: none;
     border-radius: 50%;
-    padding: 10px 12px;
-    font-size: 18px;
+    background: var(--toggle-bg, #222);
+    color: var(--toggle-fg, #fff);
+    font-size: 20px;
     cursor: pointer;
-    transition: background 0.3s;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transition: background 0.4s ease, transform 0.2s ease;
+    z-index: 2000;
   }
-  #theme-toggle.light {
-    background: #f5f5f5;
-    color: #333;
+  #theme-toggle:hover {
+    transform: scale(1.1);
   }
 </style>
 
-<<button id="theme-toggle" title="切换主题">🌗</button>
+<button id="theme-toggle" title="切换主题">🌗</button>
 
 <script>
   const body = document.body;
   const toggle = document.getElementById("theme-toggle");
-  const saved = localStorage.getItem("theme");
+  const darkClass = "theme-dark";
+  const lightClass = "theme-light";
 
-  if (saved === "light") {
-    body.classList.add("light-mode");
-    toggle.classList.add("light");
-    toggle.textContent = "☀️";
-  }
+  // 自动读取系统主题偏好
+  const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const savedTheme = localStorage.getItem("theme-mode");
+  const initialTheme = savedTheme || (systemPrefersDark ? darkClass : lightClass);
+  body.classList.add(initialTheme);
+  toggle.textContent = initialTheme === lightClass ? "☀️" : "🌙";
 
+  // 切换函数
   toggle.addEventListener("click", () => {
-    body.classList.toggle("light-mode");
-    const isLight = body.classList.contains("light-mode");
-    toggle.classList.toggle("light", isLight);
-    toggle.textContent = isLight ? "☀️" : "🌙";
-    localStorage.setItem("theme", isLight ? "light" : "dark");
+    if (body.classList.contains(darkClass)) {
+      body.classList.replace(darkClass, lightClass);
+      localStorage.setItem("theme-mode", lightClass);
+      toggle.textContent = "☀️";
+    } else {
+      body.classList.replace(lightClass, darkClass);
+      localStorage.setItem("theme-mode", darkClass);
+      toggle.textContent = "🌙";
+    }
   });
 </script>

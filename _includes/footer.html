@@ -104,79 +104,84 @@
 </script>
 
 
+<!-- 🌌 星空背景（仅暗色主题显示） -->
 <script>
-  let starCanvas = null;
-  let ctx, w, h;
-  const stars = [];
-  const STAR_NUM = 200;
-  let animationId;
+  document.addEventListener("DOMContentLoaded", function () {
+    let starCanvas = null;
+    let ctx, w, h;
+    const stars = [];
+    const STAR_NUM = 200;
+    let animationId;
 
-  // 创建并插入 canvas
-  function createStarCanvas() {
-    starCanvas = document.createElement("canvas");
-    starCanvas.id = "starfield";
-    document.body.appendChild(starCanvas);
+    function createStarCanvas() {
+      if (document.getElementById("starfield")) return; // 避免重复创建
 
-    ctx = starCanvas.getContext("2d");
-    resizeCanvas();
+      starCanvas = document.createElement("canvas");
+      starCanvas.id = "starfield";
+      document.body.appendChild(starCanvas);
 
-    for (let i = 0; i < STAR_NUM; i++) {
-      stars.push({ x: Math.random() * w, y: Math.random() * h, z: Math.random() * w });
+      ctx = starCanvas.getContext("2d");
+      resizeCanvas();
+
+      stars.length = 0; // 清空星星数组
+      for (let i = 0; i < STAR_NUM; i++) {
+        stars.push({ x: Math.random() * w, y: Math.random() * h, z: Math.random() * w });
+      }
+
+      window.addEventListener("resize", resizeCanvas);
+      animateStars();
     }
 
-    window.addEventListener("resize", resizeCanvas);
-    animateStars();
-  }
+    function resizeCanvas() {
+      w = starCanvas.width = window.innerWidth;
+      h = starCanvas.height = window.innerHeight;
+    }
 
-  function resizeCanvas() {
-    w = starCanvas.width = window.innerWidth;
-    h = starCanvas.height = window.innerHeight;
-  }
+    function animateStars() {
+      ctx.fillStyle = "black";
+      ctx.fillRect(0, 0, w, h);
+      ctx.fillStyle = "white";
 
-  function animateStars() {
-    ctx.fillStyle = "black";
-    ctx.fillRect(0, 0, w, h);
-    ctx.fillStyle = "white";
+      for (let i = 0; i < STAR_NUM; i++) {
+        const star = stars[i];
+        star.z -= 2;
+        if (star.z <= 0) star.z = w;
 
-    for (let i = 0; i < STAR_NUM; i++) {
-      const star = stars[i];
-      star.z -= 2;
-      if (star.z <= 0) star.z = w;
+        const k = 128.0 / star.z;
+        const px = star.x * k + w / 2;
+        const py = star.y * k + h / 2;
 
-      const k = 128.0 / star.z;
-      const px = star.x * k + w / 2;
-      const py = star.y * k + h / 2;
+        if (px >= 0 && px <= w && py >= 0 && py <= h) {
+          const size = (1 - star.z / w) * 2;
+          ctx.beginPath();
+          ctx.arc(px, py, size, 0, Math.PI * 2);
+          ctx.fill();
+        }
+      }
+      animationId = requestAnimationFrame(animateStars);
+    }
 
-      if (px >= 0 && px <= w && py >= 0 && py <= h) {
-        const size = (1 - star.z / w) * 2;
-        ctx.beginPath();
-        ctx.arc(px, py, size, 0, Math.PI * 2);
-        ctx.fill();
+    function destroyStarCanvas() {
+      if (starCanvas) {
+        cancelAnimationFrame(animationId);
+        window.removeEventListener("resize", resizeCanvas);
+        starCanvas.remove();
+        starCanvas = null;
       }
     }
-    animationId = requestAnimationFrame(animateStars);
-  }
 
-  function destroyStarCanvas() {
-    if (starCanvas) {
-      cancelAnimationFrame(animationId);
-      window.removeEventListener("resize", resizeCanvas);
-      starCanvas.remove();
-      starCanvas = null;
-    }
-  }
+    // 初始加载：延迟判断
+    const isDark = document.body.classList.contains("theme-dark");
+    if (isDark) createStarCanvas();
 
-  // 初次加载（检查主题）
-  const currentTheme = document.body.classList.contains("theme-dark") ? "dark" : "light";
-  if (currentTheme === "dark") createStarCanvas();
-
-  // 响应主题切换按钮
-  document.getElementById("theme-toggle")?.addEventListener("click", () => {
-    const isNowDark = document.body.classList.contains("theme-dark");
-    if (isNowDark) {
-      createStarCanvas();
-    } else {
-      destroyStarCanvas();
-    }
+    // 监听主题切换按钮
+    document.getElementById("theme-toggle")?.addEventListener("click", () => {
+      const isDarkNow = document.body.classList.contains("theme-dark");
+      if (isDarkNow) {
+        createStarCanvas();
+      } else {
+        destroyStarCanvas();
+      }
+    });
   });
 </script>

@@ -30,7 +30,7 @@
 <script>
   L2Dwidget.init({
     model: {
-      jsonPath: "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json",
+      jsonPath: "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models/packages/live2d-widget-model-hijiki/assets/hijiki.model.json",
     },
     display: {
       position: "right",
@@ -105,86 +105,3 @@
 
 
 <!-- 🌌 星空背景（仅暗色主题显示） -->
-<script>
-  let starCanvas = null;
-  let ctx, w, h;
-  const stars = [];
-  const STAR_NUM = 200;
-  let animationId;
-
-  function createStarCanvas() {
-    if (document.getElementById("starfield")) return;
-
-    starCanvas = document.createElement("canvas");
-    starCanvas.id = "starfield";
-    document.body.appendChild(starCanvas);
-
-    ctx = starCanvas.getContext("2d");
-    resizeCanvas();
-
-    stars.length = 0;
-    for (let i = 0; i < STAR_NUM; i++) {
-      stars.push({ x: Math.random() * w, y: Math.random() * h, z: Math.random() * w });
-    }
-
-    window.addEventListener("resize", resizeCanvas);
-    animateStars();
-  }
-
-  function resizeCanvas() {
-    w = starCanvas.width = window.innerWidth;
-    h = starCanvas.height = window.innerHeight;
-  }
-
-  function animateStars() {
-    ctx.fillStyle = "rgba(0, 0, 0, 0.5)";
-    ctx.fillRect(0, 0, w, h);
-    ctx.fillStyle = "white";
-
-    for (let i = 0; i < STAR_NUM; i++) {
-      const star = stars[i];
-      star.z -= 2;
-      if (star.z <= 0) star.z = w;
-
-      const k = 128.0 / star.z;
-      const px = star.x * k + w / 2;
-      const py = star.y * k + h / 2;
-
-      if (px >= 0 && px <= w && py >= 0 && py <= h) {
-        const size = (1 - star.z / w) * 2;
-        ctx.beginPath();
-        ctx.arc(px, py, size, 0, Math.PI * 2);
-        ctx.fill();
-      }
-    }
-
-    animationId = requestAnimationFrame(animateStars);
-  }
-
-  function destroyStarCanvas() {
-    if (starCanvas) {
-      cancelAnimationFrame(animationId);
-      window.removeEventListener("resize", resizeCanvas);
-      starCanvas.remove();
-      starCanvas = null;
-    }
-  }
-
-  // ✅ 延迟判断暗色模式
-  window.addEventListener("load", () => {
-    setTimeout(() => {
-      const isDark = document.body.classList.contains("theme-dark");
-      if (isDark) createStarCanvas();
-    }, 50);
-  });
-
-  // ✅ 监听主题切换按钮
-  document.getElementById("theme-toggle")?.addEventListener("click", () => {
-    const isDarkNow = document.body.classList.contains("theme-dark");
-    if (isDarkNow) {
-      createStarCanvas();
-    } else {
-      destroyStarCanvas();
-    }
-  });
-</script>

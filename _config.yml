@@ -277,9 +277,14 @@ defaults:
 
 
 # 启用 minimal mistakes
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-minimal_mistakes_skin: "dark"  # 可选 mint, air 等
-
+remote_theme: mmistakes/minimal-mistakes@4.27.1
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
 # 使用 SCSS
 sass:
   sass_dir: _sass

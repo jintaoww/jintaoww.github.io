@@ -60,20 +60,24 @@
     height: 42px;
     border: none;
     border-radius: 50%;
-    background: var(--toggle-bg, #222);
-    color: var(--toggle-fg, #fff);
     font-size: 20px;
     cursor: pointer;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    transition: background 0.4s ease, transform 0.2s ease;
     z-index: 2000;
+    background: #333;
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
   }
-  #theme-toggle:hover {
-    transform: scale(1.1);
+
+  #theme-toggle[data-theme="dark"]::after {
+    content: "🌙";
+  }
+
+  #theme-toggle[data-theme="light"]::after {
+    content: "☀️";
   }
 </style>
 
-<button id="theme-toggle" title="切换主题">🌙</button>
+<button id="theme-toggle" title="切换主题" data-theme="dark"></button>
 
 <script>
   const body = document.body;
@@ -81,23 +85,20 @@
   const darkClass = "theme-dark";
   const lightClass = "theme-light";
 
-  // 自动读取系统主题偏好
   const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
   const savedTheme = localStorage.getItem("theme-mode");
   const initialTheme = savedTheme || (systemPrefersDark ? darkClass : lightClass);
-  body.classList.add(initialTheme);
-  toggle.textContent = initialTheme === lightClass ? "☀️" : "🌙";
 
-  // 切换函数
+  body.classList.add(initialTheme);
+  toggle.setAttribute("data-theme", initialTheme === darkClass ? "dark" : "light");
+
   toggle.addEventListener("click", () => {
-    if (body.classList.contains(darkClass)) {
-      body.classList.replace(darkClass, lightClass);
-      localStorage.setItem("theme-mode", lightClass);
-      toggle.textContent = "☀️";
-    } else {
-      body.classList.replace(lightClass, darkClass);
-      localStorage.setItem("theme-mode", darkClass);
-      toggle.textContent = "🌙";
-    }
+    const isDark = body.classList.contains(darkClass);
+    const newTheme = isDark ? lightClass : darkClass;
+    const newAttr = isDark ? "light" : "dark";
+
+    body.classList.replace(isDark ? darkClass : lightClass, newTheme);
+    toggle.setAttribute("data-theme", newAttr);
+    localStorage.setItem("theme-mode", newTheme);
   });
 </script>

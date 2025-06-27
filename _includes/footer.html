@@ -106,82 +106,85 @@
 
 <!-- 🌌 星空背景（仅暗色主题显示） -->
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    let starCanvas = null;
-    let ctx, w, h;
-    const stars = [];
-    const STAR_NUM = 200;
-    let animationId;
+  let starCanvas = null;
+  let ctx, w, h;
+  const stars = [];
+  const STAR_NUM = 200;
+  let animationId;
 
-    function createStarCanvas() {
-      if (document.getElementById("starfield")) return; // 避免重复创建
+  function createStarCanvas() {
+    if (document.getElementById("starfield")) return;
 
-      starCanvas = document.createElement("canvas");
-      starCanvas.id = "starfield";
-      document.body.appendChild(starCanvas);
+    starCanvas = document.createElement("canvas");
+    starCanvas.id = "starfield";
+    document.body.appendChild(starCanvas);
 
-      ctx = starCanvas.getContext("2d");
-      resizeCanvas();
+    ctx = starCanvas.getContext("2d");
+    resizeCanvas();
 
-      stars.length = 0; // 清空星星数组
-      for (let i = 0; i < STAR_NUM; i++) {
-        stars.push({ x: Math.random() * w, y: Math.random() * h, z: Math.random() * w });
-      }
-
-      window.addEventListener("resize", resizeCanvas);
-      animateStars();
+    stars.length = 0;
+    for (let i = 0; i < STAR_NUM; i++) {
+      stars.push({ x: Math.random() * w, y: Math.random() * h, z: Math.random() * w });
     }
 
-    function resizeCanvas() {
-      w = starCanvas.width = window.innerWidth;
-      h = starCanvas.height = window.innerHeight;
-    }
+    window.addEventListener("resize", resizeCanvas);
+    animateStars();
+  }
 
-    function animateStars() {
-      ctx.fillStyle = "black";
-      ctx.fillRect(0, 0, w, h);
-      ctx.fillStyle = "white";
+  function resizeCanvas() {
+    w = starCanvas.width = window.innerWidth;
+    h = starCanvas.height = window.innerHeight;
+  }
 
-      for (let i = 0; i < STAR_NUM; i++) {
-        const star = stars[i];
-        star.z -= 2;
-        if (star.z <= 0) star.z = w;
+  function animateStars() {
+    ctx.fillStyle = "rgba(0, 0, 0, 0.5)";
+    ctx.fillRect(0, 0, w, h);
+    ctx.fillStyle = "white";
 
-        const k = 128.0 / star.z;
-        const px = star.x * k + w / 2;
-        const py = star.y * k + h / 2;
+    for (let i = 0; i < STAR_NUM; i++) {
+      const star = stars[i];
+      star.z -= 2;
+      if (star.z <= 0) star.z = w;
 
-        if (px >= 0 && px <= w && py >= 0 && py <= h) {
-          const size = (1 - star.z / w) * 2;
-          ctx.beginPath();
-          ctx.arc(px, py, size, 0, Math.PI * 2);
-          ctx.fill();
-        }
-      }
-      animationId = requestAnimationFrame(animateStars);
-    }
+      const k = 128.0 / star.z;
+      const px = star.x * k + w / 2;
+      const py = star.y * k + h / 2;
 
-    function destroyStarCanvas() {
-      if (starCanvas) {
-        cancelAnimationFrame(animationId);
-        window.removeEventListener("resize", resizeCanvas);
-        starCanvas.remove();
-        starCanvas = null;
+      if (px >= 0 && px <= w && py >= 0 && py <= h) {
+        const size = (1 - star.z / w) * 2;
+        ctx.beginPath();
+        ctx.arc(px, py, size, 0, Math.PI * 2);
+        ctx.fill();
       }
     }
 
-    // 初始加载：延迟判断
-    const isDark = document.body.classList.contains("theme-dark");
-    if (isDark) createStarCanvas();
+    animationId = requestAnimationFrame(animateStars);
+  }
 
-    // 监听主题切换按钮
-    document.getElementById("theme-toggle")?.addEventListener("click", () => {
-      const isDarkNow = document.body.classList.contains("theme-dark");
-      if (isDarkNow) {
-        createStarCanvas();
-      } else {
-        destroyStarCanvas();
-      }
-    });
+  function destroyStarCanvas() {
+    if (starCanvas) {
+      cancelAnimationFrame(animationId);
+      window.removeEventListener("resize", resizeCanvas);
+      starCanvas.remove();
+      starCanvas = null;
+    }
+  }
+
+  // ✅ 延迟判断暗色模式
+  window.addEventListener("load", () => {
+    setTimeout(() => {
+      const isDark = document.body.classList.contains("theme-dark");
+      if (isDark) createStarCanvas();
+    }, 50);
+  });
+
+  // ✅ 监听主题切换按钮
+  document.getElementById("theme-toggle")?.addEventListener("click", () => {
+    const isDarkNow = document.body.classList.contains("theme-dark");
+    if (isDarkNow) {
+      createStarCanvas();
+    } else {
+      destroyStarCanvas();
+    }
   });
 </script>

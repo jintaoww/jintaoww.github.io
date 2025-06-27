@@ -349,7 +349,7 @@ live2d:
   model: z16 # 模型名称 默认值: z16
   width: 150 # 宽度 默认值: 150
   height: 300 # 高度 默认值: 300
-  scaling: 1 # 分辨率缩放倍率 默认值: 2
+  scaling: 1 # 分辨率缩放live倍率 默认值: 2
   opacityDefault: 0.7 # 初始的透明度 默认值: 0.7
   opacityHover: 1 # 鼠标悬浮时的透明度 默认值: 1
   mobileShow: true # 是否在移动设备上显示 默认值: true

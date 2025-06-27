@@ -24,18 +24,17 @@
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
 
-<!-- Live2D 白猫模型 tororo + 点击打字弹窗 -->
+<!-- Live2D 猫咪模型：白猫 -->
 <script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js"></script>
 <script>
-  // 初始化 tororo 模型
   L2Dwidget.init({
     model: {
-      jsonPath: "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json"
+      jsonPath: "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json", // 猫咪模型：Tororo
     },
     display: {
-      position: "right",
+      position: "right",  // 可改为 left
       width: 150,
-      height: 300
+      height: 300,
     },
     mobile: {
       show: true,
@@ -45,53 +44,5 @@
       opacityDefault: 0.7,
       opacityOnHover: 1
     }
-  });
-
-  // 等待 canvas 加载完再添加事件
-  window.addEventListener("load", function () {
-    const canvasCheck = setInterval(() => {
-      const canvas = document.querySelector("canvas");
-      if (canvas) {
-        clearInterval(canvasCheck);
-
-        // 添加提示框
-        const tip = document.createElement("div");
-        tip.id = "live2d-tip";
-        tip.style.position = "fixed";
-        tip.style.right = "180px";
-        tip.style.bottom = "100px";
-        tip.style.background = "rgba(0,0,0,0.7)";
-        tip.style.color = "#fff";
-        tip.style.padding = "8px 14px";
-        tip.style.borderRadius = "8px";
-        tip.style.fontSize = "14px";
-        tip.style.zIndex = "1001";
-        tip.style.opacity = "0";
-        tip.style.transition = "opacity 0.3s ease";
-        document.body.appendChild(tip);
-
-        // 打字机效果函数
-        function typeWriter(text, speed = 80) {
-          tip.innerText = "";
-          tip.style.opacity = "1";
-          let i = 0;
-          const interval = setInterval(() => {
-            tip.innerText += text.charAt(i);
-            i++;
-            if (i >= text.length) {
-              clearInterval(interval);
-              setTimeout(() => {
-                tip.style.opacity = "0";
-              }, 2000);
-            }
-          }, speed);
-        }
-
-        // 绑定点击事件
-        canvas.addEventListener("click", () => {
-          typeWriter("科研进步！");
-        });
-      }
-    }, 300); // 每 300ms 检查一次 canvas 是否已插入
   });
 </script>

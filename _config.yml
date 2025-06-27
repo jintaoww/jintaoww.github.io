@@ -11,7 +11,7 @@
 # Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Jintao Wang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

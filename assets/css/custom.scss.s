@@ -1,5 +1,5 @@
 body.theme-dark {
-  background: #2b2b2b !important;     // ✅ 柔和暗背景，不刺眼，非常合适
+  background: #0b0f2b !important;     // ✅ 柔和暗背景，不刺眼，非常合适
   color: #e8e6e3 !important;          // ✅ 偏米色的字体色，护眼，阅读友好
 }
 

@@ -83,26 +83,56 @@
 
 <!-- Live2D 猫咪模型：白猫 -->
 <!-- Live2D 插件 -->
-<script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js"></script>
 <script>
+  // 定义模型 JSON 路径
+  const TORORO_JSON = "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json";
+  const HIJIKI_JSON = "https://unpkg.com/live2d-widget-model-hijiki@1.0.5/assets/hijiki.model.json";
+
+  const body = document.body;
+  const toggle = document.getElementById("theme-toggle");
+  const darkClass = "theme-dark", lightClass = "theme-light";
+
+  const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const savedTheme = localStorage.getItem("theme-mode");
+  const initialTheme = savedTheme || (systemPrefersDark ? darkClass : lightClass);
+
+  // 应用初始主题
+  body.classList.add(initialTheme);
+  toggle.setAttribute("data-theme", initialTheme === darkClass ? "dark" : "light");
+
+  // 根据初始主题加载对应模型
+  const initialModelPath = (initialTheme === darkClass) ? TORORO_JSON : HIJIKI_JSON;
   L2Dwidget.init({
-    model: {
-      jsonPath: "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json",
-    },
-    display: {
-      position: "right",
-      width: 150,
-      height: 300,
-    },
-    mobile: {
-      show: true,
-      scale: 0.5
-    },
-    react: {
-      opacityDefault: 0.7,
-      opacityOnHover: 1
-    }
+    model: { jsonPath: initialModelPath },
+    display: { position: "right", width: 150, height: 300 },
+    mobile: { show: true, scale: 0.5 },
+    react: { opacityDefault: 0.7, opacityOnHover: 1 }
+  });
+
+  // 主题切换按钮事件
+  toggle.addEventListener("click", () => {
+    const isDark = body.classList.contains(darkClass);
+    const newTheme = isDark ? lightClass : darkClass;
+    const newAttr = isDark ? "light" : "dark";
+
+    // 删除旧的Live2D模型元素（防止重复加载） [oai_citation:12‡blog.csdn.net](https://blog.csdn.net/weixin_43073383/article/details/136685150#:~:text=showLive2d%28name%3A%20String%29%20,Live2D%20widget%20element%20not%20found)
+    const oldWidget = document.getElementById("live2d-widget");
+    if (oldWidget) oldWidget.remove();
+
+    // 根据新主题选择模型路径 [oai_citation:13‡cnblogs.com](https://www.cnblogs.com/kmust/p/12215959.html#:~:text=Image)
+    const newModelPath = (newTheme === darkClass) ? TORORO_JSON : HIJIKI_JSON;
+    // 重新初始化Live2D看板娘 [oai_citation:14‡juejin.cn](https://juejin.cn/post/7125689793979088933#:~:text=function%20show%28obj%29%20,obj%2B%22%401.0.5%2Fassets%2F%22%2Bobj%2B%22.model.json%22%3B%20L2Dwidget.init%28config)
+    L2Dwidget.init({
+      model: { jsonPath: newModelPath },
+      display: { position: "right", width: 150, height: 300 },
+      mobile: { show: true, scale: 0.5 },
+      react: { opacityDefault: 0.7, opacityOnHover: 1 }
+    });
+
+    // 切换页面主题类和按钮图标
+    body.classList.replace(isDark ? darkClass : lightClass, newTheme);
+    toggle.setAttribute("data-theme", newAttr);
+    localStorage.setItem("theme-mode", newTheme);
   });
 </script>
-
 

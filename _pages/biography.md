@@ -37,6 +37,13 @@ author_profile: true
   Discrete optimization, fractional optimization, etc
 
 
+# Professional Experience  
+
+- **Mar. 2025 - Now**: Post-doctoral Fellow in [SKL-IOTSC](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/)
+
+- **Aug. 2024 - Feb. 2025**: Research Assistant in [SKL-IOTSC](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) 
+
+- **Sep. 2022 - Nov. 2022**: Intern in [Beijing Zengyi Technology Company](http://www.zengyi-tech.com/wzsy) 
 
 # Education  
 
@@ -46,10 +53,6 @@ author_profile: true
 - **Aug. 2016 - Jun. 2020**: Bachelor of Communication Engineering, [Jilin University](https://www.jlu.edu.cn/)  
 
 
-# Professional Experience  
-- **Aug. 2024 - Feb. 2025**: Research Assistant in [SKL-IOTSC](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) 
-
-- **Sep. 2022 - Nov. 2022**: Intern in [Beijing Zengyi Technology Company](http://www.zengyi-tech.com/wzsy)  
 
 
 # Academic Services  

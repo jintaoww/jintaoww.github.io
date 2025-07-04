@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-# Preprints
+# Latest Work
 
 - Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, ''LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' accepted by **INFOCOM 2025 DeepWireless**.
 
@@ -36,7 +36,7 @@ author_profile: true
 - **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
 Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Major Revisions. 
 
-
+- Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", submitted to **IEEE Transactions on Wireless Communications**, Major Revisions. 
 
 # Journal Papers（$\*$ for Corresponding Authorship）
 

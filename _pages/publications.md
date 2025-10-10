@@ -21,16 +21,7 @@ author_profile: true
 
 # Latest Work
 
-- Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, ''LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' accepted by **INFOCOM 2025 DeepWireless**.
 
-- Weiqiang Tan, Lei Ling, Xianda Wu, **Jintao Wang**, Yunfei Li, and Chunguo Li, ''RIS-Assisted MIMO Semantic Communication System for Speech Transmission,'' accepted by **INFOCOM 2025 DeepWireless**.
-
-- Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, and Hong Wang, ''Asymptotic Performance Analysis of FAS over Rayleigh Fading Channels,'' accepted by **2025 IEEE/CIC International Conference on Communications in China (ICCC)**.
-
-
-- Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", accepted by **2025 IEEE ICC WC**.
-
-- Chengwang Ji, Qiaoyan Peng, **Jintao Wang**, Ziqian Pei, Shaodan Ma, "Channel-Aware Mode Switching Enhanced RDARS-Aided Downlink mmWave MIMO Systems", accepted by **2025 IEEE ICC SPC**.
 
 
 - **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
@@ -65,6 +56,17 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 # Conference Papers
 
+
+8. Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, ''LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' **IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)**, London, United Kingdom, 2025, pp. 1-6. [Paper](https://ieeexplore.ieee.org/abstract/document/11152839)  
+
+7. Weiqiang Tan, Lei Ling, Xianda Wu, **Jintao Wang**, Yunfei Li, and Chunguo Li, ''RIS-Assisted MIMO Semantic Communication System for Speech Transmission,'' **IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)**, London, United Kingdom, 2025, pp. 1-6. [Paper](https://ieeexplore.ieee.org/abstract/document/11152944)  
+
+6. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, and Hong Wang, ''Asymptotic Performance Analysis of FAS over Rayleigh Fading Channels,'' **2025 IEEE/CIC International Conference on Communications in China (ICCC)**, Shanghai, China, 2025, pp. 1-6. [Paper](https://ieeexplore.ieee.org/abstract/document/11149297)  
+
+
+5. Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted Uplink MIMO Communications", **ICC 2025 - IEEE International Conference on Communications**, Montreal, QC, Canada, 2025, pp. 6251-6256. [Paper](https://ieeexplore.ieee.org/abstract/document/11161860)
+
+4. Chengwang Ji, Qiaoyan Peng, **Jintao Wang**, Ziqian Pei, Shaodan Ma, "Channel-Aware Mode Switching Enhanced RDARS-Aided Downlink mmWave MIMO Systems", **ICC 2025 - IEEE International Conference on Communications**, Montreal, QC, Canada, 2025, pp. 3230-3235. [Paper](https://ieeexplore.ieee.org/abstract/document/11161670)
 
 3. Yi Chen, **Jintao Wang**, Zheng Shi, Guanghua Yang, Yaru Fu, Hong Wang and Shaodan Ma, "Power Allocation Strategies of Non-Orthogonal HARQ: From Deep Learning Perspective," **2024 IEEE 24th International Conference on Communication Technology (ICCT)**, Chengdu, China, 2024, pp. 482-487. [Paper](https://ieeexplore.ieee.org/document/10946464)
 

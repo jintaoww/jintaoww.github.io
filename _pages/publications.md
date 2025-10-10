@@ -25,10 +25,12 @@ author_profile: true
 
 - Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", submitted to **IEEE Transactions on Communications**, Second Round Review.
 
-- **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
-Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Third Round Review. 
+
 
 - Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", submitted to **IEEE Transactions on Wireless Communications**, Second Round Review. 
+
+- **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
+Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Third Round Review. 
 
 # Journal Papers（$\*$ for Corresponding Authorship）
 

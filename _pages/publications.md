@@ -21,13 +21,14 @@ author_profile: true
 
 # Latest Work
 
+- Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems", submitted to **IEEE Transactions on Wireless Communications**, Major Revision.
 
-
+- Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", submitted to **IEEE Transactions on Communications**, Second Round Review.
 
 - **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
-Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Major Revisions. 
+Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Third Round Review. 
 
-- Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", submitted to **IEEE Transactions on Wireless Communications**, Major Revisions. 
+- Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", submitted to **IEEE Transactions on Wireless Communications**, Second Round Review. 
 
 # Journal Papers（$\*$ for Corresponding Authorship）
 

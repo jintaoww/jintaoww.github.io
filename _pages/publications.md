@@ -56,6 +56,7 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 1. Shiqi Gong, Chengwen Xing$^\*$, Heng Liu, Xin Zhao, **Jintao Wang**, Jianping An, Tony QS Quek, "Hardware-Impaired RIS-Assisted mmWave Hybrid Systems: Beamforming Design and Performance Analysis,'' **IEEE Transactions on Communications**, vol. 71, no. 4, pp. 2317-2334, April 2023.  **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/abstract/document/10034679) 
 
+0. 马成志, 阳析, 王金涛, 郭佳佳, 马少丹. 新型可重构分布式天线与反射面: 性能分析与原型验证[J]. 无线电通信技术, 2024, 50(2):399-406.
 
 # Conference Papers
 

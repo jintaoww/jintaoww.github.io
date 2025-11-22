@@ -35,9 +35,9 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 11. Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", accepted by **IEEE Transactions on Wireless Communications**.
 
-10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," **IEEE Wireless Communication Letters** (Early Access). **(JCR Q1, IF: 5.5)** [Paper](https://ieeexplore.ieee.org/document/11004011)
+10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," **IEEE Wireless Communication Letters**, vol. 14, no. 8, pp. 2371-2375, Aug. 2025. **(JCR Q1, IF: 5.5)** [Paper](https://ieeexplore.ieee.org/document/11004011)
 
-9. **Jintao Wang**, Binggui Zhou, Chengzhi Ma$^\*$, Shiqi Gong, Guanghua Yang, Shaodan Ma$^\*$, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems," **IEEE Transactions on Vehicular Technology** (Early Access).  **(JCR Q1, IF: 7.1)** [Paper](https://ieeexplore.ieee.org/abstract/document/10981669)
+9. **Jintao Wang**, Binggui Zhou, Chengzhi Ma$^\*$, Shiqi Gong, Guanghua Yang, Shaodan Ma$^\*$, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems," **IEEE Transactions on Vehicular Technology**, vol. 74, no. 9, pp. 14943-14948, Sept. 2025.  **(JCR Q1, IF: 7.1)** [Paper](https://ieeexplore.ieee.org/abstract/document/10981669)
 
 6. Pingping Zhang, **Jintao Wang**$^\*$, Yulin Shao$^\*$, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," **IEEE Internet of Things Journal**, vol. 12, no. 13, pp. 24401-24416, 1 July1, 2025. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/abstract/document/10938954)
 

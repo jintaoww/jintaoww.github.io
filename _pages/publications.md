@@ -23,17 +23,22 @@ author_profile: true
 
 
 
-- Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", submitted to **IEEE Transactions on Communications**, Minor Revision.
-
+- Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, ``Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, Under Review.
  
 
 - **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
 Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Third Round Review. 
 
 # Journal Papers（$\*$ for Corresponding Authorship）
+15. **Jintao Wang**, Fuchao He, Zheng Shi, Da Wu, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma,  ``Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective," accepted by **npj Wireless Technology**.
+
+14. Fuchao He, **Jintao Wang**$\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, ``HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness", accepted by **IEEE Transactions on Mobile Computing**.
+
+13. - Yi Zhang, **Jintao Wang**$\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", accepted by **Transactions on Communications**.
+
 12. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems", accepted by **IEEE Transactions on Wireless Communications**.
 
-11. Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", accepted by **IEEE Transactions on Wireless Communications**.
+11. Pingping Zhang, **Jintao Wang**$\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", accepted by **IEEE Transactions on Wireless Communications**.
 
 10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," **IEEE Wireless Communication Letters**, vol. 14, no. 8, pp. 2371-2375, Aug. 2025. **(JCR Q1, IF: 5.5)** [Paper](https://ieeexplore.ieee.org/document/11004011)
 

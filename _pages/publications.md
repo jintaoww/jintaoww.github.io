@@ -34,7 +34,7 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 14. Fuchao He, **Jintao Wang**$\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, ``HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness", accepted by **IEEE Transactions on Mobile Computing**.
 
-13. - Yi Zhang, **Jintao Wang**$\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", accepted by **Transactions on Communications**.
+13. Yi Zhang, **Jintao Wang**$\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", accepted by **Transactions on Communications**.
 
 12. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems", accepted by **IEEE Transactions on Wireless Communications**.
 

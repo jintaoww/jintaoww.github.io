@@ -18,41 +18,44 @@ author_profile: true
 
 
 
-
-# Latest Work
-
-
-
-- Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, ``Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, Under Review.
  
 
-- **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
-Method to Minimization of Completion Time," submitted to **IEEE Transactions on Vehicular Technology**, Third Round Review. 
+
 
 # Journal Papers（$\*$ for Corresponding Authorship）
+
+## Year 2026
+
+
+18. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang and Shaodan Ma, ``Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, Under Review.
+
+17. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, ``Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, Under Review.
+
+16. **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational
+Method to Minimization of Completion Time," accepted by **IEEE Transactions on Vehicular Technology**. 
+
 15. **Jintao Wang**, Fuchao He, Zheng Shi, Da Wu, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma,  ``Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective," accepted by **npj Wireless Technology**.
 
-14. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, ``HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness", accepted by **IEEE Transactions on Mobile Computing**.
+14. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, ``HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness", **IEEE Transactions on Mobile Computing**, Early Access.  **(JCR Q1, IF: 9.2)** [Paper](https://ieeexplore.ieee.org/document/11320805).
 
-13. Yi Zhang, **Jintao Wang**$^\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", accepted by **Transactions on Communications**.
+13. Yi Zhang, **Jintao Wang**$^\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", **Transactions on Communications**, Early Access.  **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/document/11310836)
 
-12. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems", accepted by **IEEE Transactions on Wireless Communications**.
+12. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems", **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8417-8433, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11282947)
 
-11. Pingping Zhang, **Jintao Wang**$^\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", accepted by **IEEE Transactions on Wireless Communications**.
+11. Pingping Zhang, **Jintao Wang**$^\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8097-8113, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11271122)
 
-10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," **IEEE Wireless Communication Letters**, vol. 14, no. 8, pp. 2371-2375, Aug. 2025. **(JCR Q1, IF: 5.5)** [Paper](https://ieeexplore.ieee.org/document/11004011)
+
+## Year 2025
+
+10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," **IEEE Wireless Communications Letters**, vol. 14, no. 8, pp. 2371-2375, Aug. 2025. **(JCR Q1, IF: 5.5)** [Paper](https://ieeexplore.ieee.org/document/11004011)
 
 9. **Jintao Wang**, Binggui Zhou, Chengzhi Ma$^\*$, Shiqi Gong, Guanghua Yang, Shaodan Ma$^\*$, "Robust Beamforming Design and Antenna Selection for Dynamic HRIS-aided MISO Systems," **IEEE Transactions on Vehicular Technology**, vol. 74, no. 9, pp. 14943-14948, Sept. 2025.  **(JCR Q1, IF: 7.1)** [Paper](https://ieeexplore.ieee.org/abstract/document/10981669)
 
 6. Pingping Zhang, **Jintao Wang**$^\*$, Yulin Shao$^\*$, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," **IEEE Internet of Things Journal**, vol. 12, no. 13, pp. 24401-24416, 1 July1, 2025. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/abstract/document/10938954)
 
+## Year 2024
+
 8. **Jintao Wang**, Chengzhi Ma, Shiqi Gong$^\*$, Xi Yang, Shaodan Ma$^\*$, "Joint Beamforming Optimization and Mode Selection for RDARS-aided MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 23, no. 11, pp. 17557-17572, Nov. 2024. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/10705003)
-
-7. **Jintao Wang**, Shiqi Gong$^\*$, Qingqing Wu, Shaodan Ma$^\*$, "RIS-aided MIMO systems with hardware impairments: Robust beamforming design and analysis,'' **IEEE Transactions on Wireless Communications**, vol. 22, no. 10, pp. 6914-6929, Oct. 2023. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/abstract/document/10056867)
-
-
-
-5. Shiqi Gong, **Jintao Wang**, Xin Zhao, Shaodan Ma$^\*$, Chengwen Xing$^\*$, "A Framework for Hardware Impairments-Aware Multi-Antenna Transceiver Design in IoT Systems via Majorization–Minimization,'' **IEEE Internet of Things Journal**, vol. 10, no. 1, pp. 417-433, 1 Jan.1, 2023. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/abstract/document/9867975)
 
 4. Chengzhi Ma, **Jintao Wang**, Xi Yang$^\*$, Guanghua Yang$^\*$, Wei Zhang, Shaodan Ma, "RDARS Empowered Massive MIMO System: Two-Timescale Transceiver Design with Imperfect CSI," **IEEE Transactions on Wireless Communications**, vol. 23, no. 12, pp. 18806-18821, Dec. 2024. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/10729705)
 
@@ -60,12 +63,21 @@ Method to Minimization of Completion Time," submitted to **IEEE Transactions on 
 
 2. Binggui Zhou, Xi Yang$^\*$, **Jintao Wang**, Shaodan Ma, Feifei Gao, Guanghua Yang$^\*$, "A Low-Overhead Incorporation-Extrapolation based Few-Shot CSI Feedback Framework for Massive MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 23, no. 10, pp. 14743-14758, Oct. 2024. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/10600118)
 
-1. Shiqi Gong, Chengwen Xing$^\*$, Heng Liu, Xin Zhao, **Jintao Wang**, Jianping An, Tony QS Quek, "Hardware-Impaired RIS-Assisted mmWave Hybrid Systems: Beamforming Design and Performance Analysis,'' **IEEE Transactions on Communications**, vol. 71, no. 4, pp. 2317-2334, April 2023.  **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/abstract/document/10034679) 
-
 0. 马成志, 阳析, **王金涛**, 郭佳佳, 马少丹. 新型可重构分布式天线与反射面: 性能分析与原型验证[J]. 无线电通信技术, 2024, 50(2):399-406.
 
-# Conference Papers
+## Year 2023
 
+7. **Jintao Wang**, Shiqi Gong$^\*$, Qingqing Wu, Shaodan Ma$^\*$, "RIS-aided MIMO systems with hardware impairments: Robust beamforming design and analysis,'' **IEEE Transactions on Wireless Communications**, vol. 22, no. 10, pp. 6914-6929, Oct. 2023. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/abstract/document/10056867)
+
+
+5. Shiqi Gong, **Jintao Wang**, Xin Zhao, Shaodan Ma$^\*$, Chengwen Xing$^\*$, "A Framework for Hardware Impairments-Aware Multi-Antenna Transceiver Design in IoT Systems via Majorization–Minimization,'' **IEEE Internet of Things Journal**, vol. 10, no. 1, pp. 417-433, 1 Jan.1, 2023. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/abstract/document/9867975)
+
+
+1. Shiqi Gong, Chengwen Xing$^\*$, Heng Liu, Xin Zhao, **Jintao Wang**, Jianping An, Tony QS Quek, "Hardware-Impaired RIS-Assisted mmWave Hybrid Systems: Beamforming Design and Performance Analysis,'' **IEEE Transactions on Communications**, vol. 71, no. 4, pp. 2317-2334, April 2023.  **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/abstract/document/10034679) 
+
+
+# Conference Papers
+9. Weiqiang Tan, Minwei Zhang, Maobin Tang, **Jintao Wang**, Chunguo Li, "A Novel CSI Feedback Scheme for Massive MIMO Systems Using Differentiable Histogram Attention Mechanism," 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-5. [Paper](https://ieeexplore.ieee.org/document/11309872)
 
 8. Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, ''LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback,'' **IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)**, London, United Kingdom, 2025, pp. 1-6. [Paper](https://ieeexplore.ieee.org/abstract/document/11152839)  
 

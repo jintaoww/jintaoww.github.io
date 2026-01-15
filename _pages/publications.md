@@ -24,7 +24,7 @@ author_profile: true
 
 # Journal Papers（$\*$ for Corresponding Authorship）
 
-***********
+## Year 2026
 
 
 18. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang and Shaodan Ma, ``Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, Under Review.
@@ -45,7 +45,7 @@ Method to Minimization of Completion Time," accepted by **IEEE Transactions on V
 11. Pingping Zhang, **Jintao Wang**$^\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8097-8113, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11271122)
 
 
-***********
+## Year 2025
 
 10. Ziqian Pei, **Jintao Wang**, Pingping Zhang$^\*$, Zheng Shi, Guanghua Yang, Shaodan Ma$^\*$, "Secure Communication in Dynamic RDARS-Driven Systems," **IEEE Wireless Communications Letters**, vol. 14, no. 8, pp. 2371-2375, Aug. 2025. **(JCR Q1, IF: 5.5)** [Paper](https://ieeexplore.ieee.org/document/11004011)
 
@@ -53,7 +53,7 @@ Method to Minimization of Completion Time," accepted by **IEEE Transactions on V
 
 6. Pingping Zhang, **Jintao Wang**$^\*$, Yulin Shao$^\*$, Shaodan Ma, "Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection," **IEEE Internet of Things Journal**, vol. 12, no. 13, pp. 24401-24416, 1 July1, 2025. **(JCR Q1, IF: 8.9)** [Paper](https://ieeexplore.ieee.org/abstract/document/10938954)
 
-***********
+## Year 2024
 
 8. **Jintao Wang**, Chengzhi Ma, Shiqi Gong$^\*$, Xi Yang, Shaodan Ma$^\*$, "Joint Beamforming Optimization and Mode Selection for RDARS-aided MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 23, no. 11, pp. 17557-17572, Nov. 2024. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/10705003)
 
@@ -65,7 +65,7 @@ Method to Minimization of Completion Time," accepted by **IEEE Transactions on V
 
 0. 马成志, 阳析, **王金涛**, 郭佳佳, 马少丹. 新型可重构分布式天线与反射面: 性能分析与原型验证[J]. 无线电通信技术, 2024, 50(2):399-406.
 
-***********
+## Year 2023
 
 7. **Jintao Wang**, Shiqi Gong$^\*$, Qingqing Wu, Shaodan Ma$^\*$, "RIS-aided MIMO systems with hardware impairments: Robust beamforming design and analysis,'' **IEEE Transactions on Wireless Communications**, vol. 22, no. 10, pp. 6914-6929, Oct. 2023. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/abstract/document/10056867)
 

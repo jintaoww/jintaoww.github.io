@@ -36,13 +36,13 @@ Method to Minimization of Completion Time," **IEEE Transactions on Vehicular Tec
 
 15. **Jintao Wang**, Fuchao He, Zheng Shi, Da Wu, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma,  "Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective," accepted by **npj Wireless Technology**.
 
-14. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness", **IEEE Transactions on Mobile Computing**, 2026. (Early Access).  **(JCR Q1, IF: 9.2)** [Paper](https://ieeexplore.ieee.org/document/11320805).
+14. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness," **IEEE Transactions on Mobile Computing**, 2026. (Early Access).  **(JCR Q1, IF: 9.2)** [Paper](https://ieeexplore.ieee.org/document/11320805).
 
-13. Yi Zhang, **Jintao Wang**$^\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels", **IEEE Transactions on Communications**, vol. 74, pp. 2498-2514, 2026.  **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/document/11310836)
+13. Yi Zhang, **Jintao Wang**$^\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels," **IEEE Transactions on Communications**, vol. 74, pp. 2498-2514, 2026.  **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/document/11310836)
 
-12. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems", **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8417-8433, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11282947)
+12. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8417-8433, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11282947)
 
-11. Pingping Zhang, **Jintao Wang**$^\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI", **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8097-8113, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11271122)
+11. Pingping Zhang, **Jintao Wang**$^\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8097-8113, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11271122)
 
 
 ## Year 2025

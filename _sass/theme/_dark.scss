@@ -34,7 +34,8 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
-html[data-theme="dark"] {
+html[data-theme="dark"],
+body.theme-dark {
     --global-base-color                 : #274c72;
     --global-bg-color                   : #121a22;
     --global-footer-bg-color            : #17212b;
@@ -55,4 +56,5 @@ html[data-theme="dark"] {
     --academic-surface-strong           : #22303d;
     --academic-accent                   : #cfaa63;
     --academic-shadow                   : rgba(0, 0, 0, 0.24);
+    color-scheme                        : dark;
 }

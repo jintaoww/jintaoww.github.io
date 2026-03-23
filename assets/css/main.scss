@@ -50,6 +50,12 @@ body {
   line-height: 1.7;
 }
 
+body.theme-light,
+body.theme-dark {
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+}
+
 /* 确保标题也生效 */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif !important;
@@ -64,6 +70,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 html[data-theme="dark"] .masthead {
+  background: rgba(18, 26, 34, 0.94);
+}
+
+body.theme-dark .masthead {
   background: rgba(18, 26, 34, 0.94);
 }
 

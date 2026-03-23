@@ -28,6 +28,7 @@
 <script>
   (function() {
     const root = document.documentElement;
+    const body = document.body;
     const toggle = document.getElementById("theme-toggle");
     const storageKey = "theme-mode";
     const configuredTheme = "{{ site.site_theme | default: 'light' }}";
@@ -37,24 +38,43 @@
       return;
     }
 
+    function readStoredTheme() {
+      try {
+        const stored = localStorage.getItem(storageKey);
+        return stored === "dark" || stored === "light" ? stored : null;
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function writeStoredTheme(theme) {
+      try {
+        localStorage.setItem(storageKey, theme);
+      } catch (error) {}
+    }
+
     function applyTheme(theme) {
       const activeTheme = theme === "dark" ? "dark" : "light";
       const nextTheme = activeTheme === "dark" ? "light" : "dark";
+
       root.setAttribute("data-theme", activeTheme);
+      if (body) {
+        body.classList.remove("theme-dark", "theme-light");
+        body.classList.add("theme-" + activeTheme);
+      }
       toggle.setAttribute("data-theme", activeTheme);
       toggle.textContent = nextTheme === "dark" ? "Dark" : "Light";
       toggle.setAttribute("aria-label", "Switch to " + nextTheme + " theme");
     }
 
-    const savedTheme = localStorage.getItem(storageKey);
-    const initialTheme = savedTheme === "dark" || savedTheme === "light" ? savedTheme : preferredTheme;
+    const initialTheme = readStoredTheme() || root.getAttribute("data-theme") || preferredTheme;
     applyTheme(initialTheme);
 
     toggle.addEventListener("click", function() {
       const currentTheme = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
       const nextTheme = currentTheme === "dark" ? "light" : "dark";
       applyTheme(nextTheme);
-      localStorage.setItem(storageKey, nextTheme);
+      writeStoredTheme(nextTheme);
     });
   })();
 </script>

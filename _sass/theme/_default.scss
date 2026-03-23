@@ -27,7 +27,8 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
-:root {
+:root,
+body.theme-light {
     --global-base-color                 : #16324f;
     --global-bg-color                   : #f6f4ef;
     --global-footer-bg-color            : #ece7de;
@@ -48,4 +49,5 @@ $sidebar-screen-min-width   : 1024px;
     --academic-surface-strong           : #f0ebe2;
     --academic-accent                   : #b6862c;
     --academic-shadow                   : rgba(18, 36, 54, 0.08);
+    color-scheme                        : light;
 }

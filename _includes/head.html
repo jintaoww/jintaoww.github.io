@@ -12,7 +12,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  (function() {
+    var root = document.documentElement;
+    var theme = "{{ site.site_theme | default: 'light' }}";
+
+    try {
+      var savedTheme = localStorage.getItem("theme-mode");
+      if (savedTheme === "dark" || savedTheme === "light") {
+        theme = savedTheme;
+      }
+    } catch (error) {}
+
+    root.setAttribute("data-theme", theme === "dark" ? "dark" : "light");
+    root.className = root.className.replace(/\bno-js\b/g, '') + ' js ';
+  })();
 </script>
 
 <!-- For all browsers -->

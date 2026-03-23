@@ -13,7 +13,6 @@
 
     "themes",
     "theme/default",
-    "theme/dark",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -50,12 +49,6 @@ body {
   line-height: 1.7;
 }
 
-body.theme-light,
-body.theme-dark {
-  background: var(--global-bg-color);
-  color: var(--global-text-color);
-}
-
 /* 确保标题也生效 */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif !important;
@@ -67,14 +60,6 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   background: rgba(246, 244, 239, 0.94);
   backdrop-filter: blur(14px);
-}
-
-html[data-theme="dark"] .masthead {
-  background: rgba(18, 26, 34, 0.94);
-}
-
-body.theme-dark .masthead {
-  background: rgba(18, 26, 34, 0.94);
 }
 
 .masthead__menu-item--lg a {
@@ -329,42 +314,10 @@ body.theme-dark .masthead {
   max-width: 100%;
 }
 
-.theme-toggle {
-  position: fixed;
-  right: 1.5rem;
-  bottom: 1.5rem;
-  padding: 0.7rem 0.95rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 999px;
-  background: var(--academic-surface);
-  color: var(--global-text-color);
-  font-family: $sans-serif;
-  font-size: 0.82rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  box-shadow: 0 10px 25px var(--academic-shadow);
-  cursor: pointer;
-  z-index: 2000;
-  pointer-events: auto;
-  touch-action: manipulation;
-  user-select: none;
-  -webkit-tap-highlight-color: transparent;
-}
-
-.theme-toggle:hover {
-  color: var(--global-link-color);
-  border-color: var(--global-link-color);
-}
-
 @include breakpoint(max-width $small) {
   .academic-hero,
   .academic-card,
   .sidebar > div[itemscope] {
     padding: 1.25rem;
-  }
-
-  .theme-toggle {
-    right: 1rem;
-    bottom: 1rem;
   }
 }

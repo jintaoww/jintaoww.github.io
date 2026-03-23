@@ -17,9 +17,6 @@ author_profile: true
 
  Ph.D. in the [SKL-IOTSC](https://skliotsc.um.edu.mo/) and Department of ECE, University of Macau, Macao SAR, China; My supervisor is [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) (SMIEEE, Associate Director of SKL-IOTSC).  
 
-<!-- Here is my resume. [CV-CN](https://jintaoww.github.io/files/CV_Zn_Jintao.pdf)  [CV-EN](https://jintaoww.github.io/files/CV_En_Jintao.pdf)-->
-
-
 <!-- My research interests include massive multiple-input multiple-output (MIMO), reconfigurable intelligent surface (RIS), integrated sensing and communication (ISAC), mmWave communication, transceiver design, hardware impairments, convex optimization, and wireless communication prototype. -->
 
 # Research Interests
@@ -73,4 +70,3 @@ author_profile: true
 - International Conference on Future Communications and Networks (FCN)  
 
 - IEEE Vehicular Technology Conference (VTC)
-

@@ -15,7 +15,6 @@ author_profile: true
     <div class="academic-actions">
       <a class="btn" href="{{ base_path }}/publications/">Publications</a>
       <a class="btn btn--inverse" href="{{ base_path }}/research/">Research Overview</a>
-      <a class="btn btn--inverse" href="{{ base_path }}/files/CV_En_Jintao.pdf">CV (English)</a>
       <a class="btn btn--inverse" href="{{ site.author.googlescholar }}">Google Scholar</a>
     </div>
   </section>
@@ -94,6 +93,14 @@ author_profile: true
         <p><strong>Alternate Email</strong><span>{{ site.author.email_secondary }}</span></p>
         <p><strong>Office</strong><span>{{ site.author.office }}</span></p>
         <p><strong>Address</strong><span>{{ site.author.address }}</span></p>
+      </div>
+      <div class="academic-visitor-map">
+        <p class="academic-visitor-map__title">Visitor Map</p>
+        <script
+          type="text/javascript"
+          id="clustrmaps"
+          src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=tt&d=eaDNHe07DDvU8-ERxcx4XBalmsAS-BHZbz2OnbQyz74&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9">
+        </script>
       </div>
     </section>
   </div>

@@ -34,12 +34,6 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.cv_en %}
-        <li><a href="{{ base_path }}{{ author.cv_en }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV (EN)</a></li>
-      {% endif %}
-      {% if author.cv_zh %}
-        <li><a href="{{ base_path }}{{ author.cv_zh }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV (CN)</a></li>
-      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}

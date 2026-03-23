@@ -345,6 +345,10 @@ body.theme-dark .masthead {
   box-shadow: 0 10px 25px var(--academic-shadow);
   cursor: pointer;
   z-index: 2000;
+  pointer-events: auto;
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .theme-toggle:hover {

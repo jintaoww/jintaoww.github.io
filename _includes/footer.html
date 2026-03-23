@@ -23,20 +23,14 @@
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
-<button id="theme-toggle" class="theme-toggle" type="button" title="Toggle color theme" aria-label="Toggle color theme"></button>
+<button id="theme-toggle" class="theme-toggle" type="button" title="Toggle color theme" aria-label="Toggle color theme" onclick="return window.__toggleTheme ? window.__toggleTheme() : false;"></button>
 
 <script>
   (function() {
     const root = document.documentElement;
-    const body = document.body;
-    const toggle = document.getElementById("theme-toggle");
     const storageKey = "theme-mode";
     const configuredTheme = "{{ site.site_theme | default: 'light' }}";
     const preferredTheme = configuredTheme === "dark" ? "dark" : "light";
-
-    if (!toggle) {
-      return;
-    }
 
     function readStoredTheme() {
       try {
@@ -53,28 +47,57 @@
       } catch (error) {}
     }
 
+    function getToggle() {
+      return document.getElementById("theme-toggle");
+    }
+
     function applyTheme(theme) {
       const activeTheme = theme === "dark" ? "dark" : "light";
       const nextTheme = activeTheme === "dark" ? "light" : "dark";
+      const body = document.body;
+      const toggle = getToggle();
 
       root.setAttribute("data-theme", activeTheme);
       if (body) {
         body.classList.remove("theme-dark", "theme-light");
         body.classList.add("theme-" + activeTheme);
       }
-      toggle.setAttribute("data-theme", activeTheme);
-      toggle.textContent = nextTheme === "dark" ? "Dark" : "Light";
-      toggle.setAttribute("aria-label", "Switch to " + nextTheme + " theme");
+      if (toggle) {
+        toggle.setAttribute("data-theme", activeTheme);
+        toggle.textContent = nextTheme === "dark" ? "Dark" : "Light";
+        toggle.setAttribute("aria-label", "Switch to " + nextTheme + " theme");
+      }
     }
 
-    const initialTheme = readStoredTheme() || root.getAttribute("data-theme") || preferredTheme;
-    applyTheme(initialTheme);
-
-    toggle.addEventListener("click", function() {
+    function toggleTheme(event) {
+      if (event) {
+        event.preventDefault();
+        event.stopPropagation();
+      }
       const currentTheme = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
       const nextTheme = currentTheme === "dark" ? "light" : "dark";
       applyTheme(nextTheme);
       writeStoredTheme(nextTheme);
-    });
+      return false;
+    }
+
+    function bindToggle() {
+      const toggle = getToggle();
+      if (!toggle || toggle.dataset.bound === "true") {
+        return;
+      }
+
+      toggle.dataset.bound = "true";
+      toggle.addEventListener("click", toggleTheme);
+      toggle.addEventListener("pointerup", toggleTheme);
+    }
+
+    window.__toggleTheme = toggleTheme;
+
+    const initialTheme = readStoredTheme() || root.getAttribute("data-theme") || preferredTheme;
+    applyTheme(initialTheme);
+    bindToggle();
+    document.addEventListener("DOMContentLoaded", bindToggle);
+    window.addEventListener("pageshow", bindToggle);
   })();
 </script>

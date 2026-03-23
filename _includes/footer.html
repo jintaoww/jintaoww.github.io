@@ -12,10 +12,10 @@
       <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
     {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
@@ -23,83 +23,38 @@
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
-
-
-
-<!-- 🌗 主题切换按钮 -->
-<!-- 🌗 高级主题切换按钮 -->
-<style>
-  #theme-toggle {
-    position: fixed;
-    left: 50px;
-    bottom: 60px;
-    width: 42px;
-    height: 42px;
-    border: none;
-    border-radius: 50%;
-    font-size: 20px;
-    cursor: pointer;
-    z-index: 2000;
-    background: #333;
-    color: #fff;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
-  }
-
-  #theme-toggle[data-theme="dark"]::after {
-    content: "☀️";
-  }
-
-  #theme-toggle[data-theme="light"]::after {
-    content: "🌙";
-  }
-</style>
-
-<button id="theme-toggle" title="切换主题" data-theme="dark"></button>
+<button id="theme-toggle" class="theme-toggle" type="button" title="Toggle color theme" aria-label="Toggle color theme"></button>
 
 <script>
-  const body = document.body;
-  const toggle = document.getElementById("theme-toggle");
-  const darkClass = "theme-dark";
-  const lightClass = "theme-light";
+  (function() {
+    const root = document.documentElement;
+    const toggle = document.getElementById("theme-toggle");
+    const storageKey = "theme-mode";
+    const configuredTheme = "{{ site.site_theme | default: 'light' }}";
+    const preferredTheme = configuredTheme === "dark" ? "dark" : "light";
 
-  const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  const savedTheme = localStorage.getItem("theme-mode");
-  const initialTheme = savedTheme || (systemPrefersDark ? darkClass : lightClass);
-
-  body.classList.add(initialTheme);
-  toggle.setAttribute("data-theme", initialTheme === darkClass ? "dark" : "light");
-
-  toggle.addEventListener("click", () => {
-    const isDark = body.classList.contains(darkClass);
-    const newTheme = isDark ? lightClass : darkClass;
-    const newAttr = isDark ? "light" : "dark";
-
-    body.classList.replace(isDark ? darkClass : lightClass, newTheme);
-    toggle.setAttribute("data-theme", newAttr);
-    localStorage.setItem("theme-mode", newTheme);
-  });
-</script>
-
-<!-- Live2D 猫咪模型：白猫 -->
-<!-- Live2D 插件 -->
-<script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js"></script>
-<script>
-  L2Dwidget.init({
-    model: {
-      jsonPath: "https://unpkg.com/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json",
-    },
-    display: {
-      position: "right",
-      width: 150,
-      height: 300,
-    },
-    mobile: {
-      show: true,
-      scale: 0.5
-    },
-    react: {
-      opacityDefault: 0.7,
-      opacityOnHover: 1
+    if (!toggle) {
+      return;
     }
-  });
+
+    function applyTheme(theme) {
+      const activeTheme = theme === "dark" ? "dark" : "light";
+      const nextTheme = activeTheme === "dark" ? "light" : "dark";
+      root.setAttribute("data-theme", activeTheme);
+      toggle.setAttribute("data-theme", activeTheme);
+      toggle.textContent = nextTheme === "dark" ? "Dark" : "Light";
+      toggle.setAttribute("aria-label", "Switch to " + nextTheme + " theme");
+    }
+
+    const savedTheme = localStorage.getItem(storageKey);
+    const initialTheme = savedTheme === "dark" || savedTheme === "light" ? savedTheme : preferredTheme;
+    applyTheme(initialTheme);
+
+    toggle.addEventListener("click", function() {
+      const currentTheme = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
+      const nextTheme = currentTheme === "dark" ? "light" : "dark";
+      applyTheme(nextTheme);
+      localStorage.setItem(storageKey, nextTheme);
+    });
+  })();
 </script>

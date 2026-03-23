@@ -10,14 +10,14 @@
 
 # Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
-title                    : "Home"
+site_theme               : "light"
+title                    : "Jintao Wang"
 title_separator          : "-"
 name                     : &name "Jintao Wang"
-description              : &description "personal description"
+description              : &description "Postdoctoral Fellow working on RIS/RDARS, ISAC, massive MIMO, and optimization for next-generation wireless communications."
 url                      : https://jintaoww.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jintaoww/jintaoww.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,12 +86,16 @@ analytics:
 author:
   name             : "Jintao Wang"
   avatar           : "jintao.png"
-  bio              : "Postdoc@UM"
-  location         : "Macau, China"
+  bio              : "Postdoctoral Fellow, SKL-IOTSC"
+  location         : "Macau SAR, China"
   employer         : "University of Macau"
+  group            : "State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=dkQrb10AAAAJ"
   email            :  "wang.jintao@connect.um.edu.mo"
+  email_secondary  :  "jintaowang@um.edu.mo"
+  office           :  "Room 5004, Building N21"
+  address          :  "University of Macau, Avenida da Universidade, Taipa, Macao SAR, China"
   researchgate     :  # "https://www.researchgate.net/profile/Jintao-Wang-22"
   uri              :
   bitbucket        :
@@ -100,7 +104,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "https://github.com/jintaoww"
+  github           : "jintaoww"
   google_plus      :
   keybase          :
   instagram        :
@@ -119,6 +123,8 @@ author:
   xing             :
   youtube          : 
   wikipedia        : # "https://blog.csdn.net/UncleWa?spm=1010.2135.3001.5343"
+  cv_en            : "/files/CV_En_Jintao.pdf"
+  cv_zh            : "/files/CV_Zn_Jintao.pdf"
   
 
 
@@ -285,7 +291,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

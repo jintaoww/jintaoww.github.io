@@ -28,20 +28,24 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
-    --global-base-color                 : #{$gray};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
-    --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #FFB6C1;
-    --global-link-color-hover           : #FFB6C1;
-    --global-link-color-visited         : #FFB6C1;  
-    --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
-    --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$lighter-gray};
+    --global-base-color                 : #16324f;
+    --global-bg-color                   : #f6f4ef;
+    --global-footer-bg-color            : #ece7de;
+    --global-border-color               : #d7d0c5;
+    --global-dark-border-color          : #b9b1a3;
+    --global-code-background-color      : #f1eee8;
+    --global-code-text-color            : #243547;
+    --global-fig-caption-color          : #5f6c78;
+    --global-link-color                 : #0f4875;
+    --global-link-color-hover           : #0b3558;
+    --global-link-color-visited         : #4f6379;
+    --global-masthead-link-color        : #243547;
+    --global-masthead-link-color-hover  : #0f4875;
+    --global-text-color                 : #1e2933;
+    --global-text-color-light           : #5f6b77;
+    --global-thead-color                : #ece7de;
+    --academic-surface                  : #fcfbf8;
+    --academic-surface-strong           : #f0ebe2;
+    --academic-accent                   : #b6862c;
+    --academic-shadow                   : rgba(18, 36, 54, 0.08);
 }

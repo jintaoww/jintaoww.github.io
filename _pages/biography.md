@@ -78,7 +78,17 @@ author_profile: true
 - IEEE Internet of Things Journal (IOT-J)  
 
 
-### Conference Reviwer  
+### Conference Service
+
+- Technical Program Committee (TPC) Member, IEEE VTC2026-Spring, Nice, France, Track: Signal Processing for Wireless Communications, Cooperative Communication
+
+- Technical Program Committee (TPC) Member, IEEE VTC2024-Spring, Singapore, Track: Signal Transmission and Reception
+
+- Technical Program Committee (TPC) Member, IEEE GLOBECOM 2026, Communication QoS, Reliability, and Modeling (CQRM) Symposium
+
+- Technical Program Committee (TPC) Member, IEEE ICC 2026, SAC: Integrated Sensing and Communication
+
+- Session Chair, WCSP 2025, Oral Session 11: AI for Communications and Networking Symposium-II
 
 - Asia-Pacific Conference on Communications (APCC)  
 

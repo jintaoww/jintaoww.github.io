@@ -46,19 +46,19 @@ author_profile: true
       <ol class="academic-news">
         <li>
           <span class="academic-news__date">Jun. 2026</span>
-          <p>Congratulations to **Fei Cheng** on the acceptance of the **VTC2026-Spring** paper titled “Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”. 🎉🎉🎉</p>
+          <p>Congratulations to <strong>Fei Cheng</strong> on the acceptance of the <strong>VTC2026-Spring</strong> paper titled “Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”. 🎉🎉🎉</p>
         </li>
         <li>
           <span class="academic-news__date">May 2026</span>
-          <p>Congratulations to **Chengwang Ji** on the acceptance of the **ICC Workshops 2026** paper titled “Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”. 🎉🎉🎉</p>
+          <p>Congratulations to <strong>Chengwang Ji</strong> on the acceptance of the <strong>ICC Workshops 2026</strong> paper titled “Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”. 🎉🎉🎉</p>
         </li>
         <li>
           <span class="academic-news__date">May 2026</span>
-          <p>Congratulations to **Weiqiang Tan** on the acceptance of the **IEEE INFOCOM Workshops 2026 DeepWireless** paper titled “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”. 🎉🎉🎉</p>
+          <p>Congratulations to <strong>Weiqiang Tan</strong> on the acceptance of the <strong>IEEE INFOCOM Workshops 2026 DeepWireless</strong> paper titled “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”. 🎉🎉🎉</p>
         </li>
         <li>
           <span class="academic-news__date">Mar. 2026</span>
-          <p>Congratulations to **Lei Ling** on the acceptance of the **IEEE Transactions on Instrumentation and Measurement** paper titled “Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”. 🎉🎉🎉</p>
+          <p>Congratulations to <strong>Lei Ling</strong> on the acceptance of the <strong>IEEE Transactions on Instrumentation and Measurement</strong> paper titled “Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”. 🎉🎉🎉</p>
         </li>
       </ol>
     </section>

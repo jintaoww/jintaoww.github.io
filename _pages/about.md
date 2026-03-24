@@ -46,19 +46,19 @@ author_profile: true
       <ol class="academic-news">
         <li>
           <span class="academic-news__date">Jun. 2026</span>
-          <p>Congratulations to first author Fei Cheng on the acceptance of the VTC2026-Spring paper titled “Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”. 🎉🎉🎉</p>
+          <p>Congratulations to **Fei Cheng** on the acceptance of the **VTC2026-Spring** paper titled “Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”. 🎉🎉🎉</p>
         </li>
         <li>
           <span class="academic-news__date">May 2026</span>
-          <p>Congratulations to first author Chengwang Ji on the acceptance of the ICC Workshops 2026 paper titled “Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”. 🎉🎉🎉</p>
+          <p>Congratulations to **Chengwang Ji** on the acceptance of the **ICC Workshops 2026** paper titled “Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”. 🎉🎉🎉</p>
         </li>
         <li>
           <span class="academic-news__date">May 2026</span>
-          <p>Congratulations to first author Weiqiang Tan on the acceptance of the IEEE INFOCOM Workshops 2026 DeepWireless paper titled “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”. 🎉🎉🎉</p>
+          <p>Congratulations to **Weiqiang Tan** on the acceptance of the **IEEE INFOCOM Workshops 2026 DeepWireless** paper titled “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”. 🎉🎉🎉</p>
         </li>
         <li>
           <span class="academic-news__date">Mar. 2026</span>
-          <p>Congratulations to first author Lei Ling on the acceptance of the IEEE Transactions on Instrumentation and Measurement paper titled “Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”. 🎉🎉🎉</p>
+          <p>Congratulations to **Lei Ling** on the acceptance of the **IEEE Transactions on Instrumentation and Measurement** paper titled “Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”. 🎉🎉🎉</p>
         </li>
       </ol>
     </section>
@@ -87,24 +87,6 @@ author_profile: true
         </li>
       </ol>
       <p class="academic-note">A complete list of journal papers, conference papers, and patents is available on the publications page.</p>
-    </section>
-
-    <section class="academic-card">
-      <h2>Current Projects</h2>
-      <ul class="academic-list academic-list--compact">
-        <li><strong>AI-Driven Intelligent 6G Wireless Communications: Theory and Technology</strong><br>Student Investigator, beamforming and prototype realization, funded by NSFC and FDCT.</li>
-        <li><strong>Wireless Information and Power Transfer in IoT Networks</strong><br>Prototype verification for wireless information and energy transmission based on NI USRP, funded by FDCT.</li>
-      </ul>
-    </section>
-
-    <section class="academic-card">
-      <h2>Academic Service</h2>
-      <ul class="academic-list academic-list--compact">
-        <li>Reviewer for IEEE Transactions on Wireless Communications</li>
-        <li>Reviewer for IEEE Transactions on Communications</li>
-        <li>Reviewer for IEEE Internet of Things Journal</li>
-        <li>Conference reviewer for VTC, APCC, and FCN</li>
-      </ul>
     </section>
 
     <section class="academic-card academic-card--wide">

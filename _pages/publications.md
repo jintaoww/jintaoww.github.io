@@ -76,6 +76,14 @@ author_profile: true
 
 
 # Conference Papers
+13. **Jintao Wang**, Da Wu, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Decentralized Multi-Agent Deep Reinforcement Learning Based Rate Selection of NOMA Assisted XP-HARQ," accepted by **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, Chongqing, China, Oct. 2025.
+
+12. Zhonghao Li, **Jintao Wang**, Zheng Shi, Xu Wang, Hong Wang, Yaru Fu, and Haichuan Ding, "Implementation of a HARQ-Assisted Hybrid SCMA-OMA System Using USRP," accepted by **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, Chongqing, China, Oct. 2025.
+
+11. Yuxiang Liu, Xu Wang, Zheng Shi, **Jintao Wang**, Guanghua Yang, and Shaodan Ma, "Channel Capacity Constrained Secure Semantic Communications Against Eavesdropping," accepted by **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, Chongqing, China, Oct. 2025.
+
+10. Zhirun Ye, Yi Zhang, Fuchao He, Zheng Shi, Xu Wang, **Jintao Wang**, and Hong Wang, "Outage Probability of Type-I HARQ-Aided Movable Antenna Systems," accepted by **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, Chongqing, China, Oct. 2025.
+
 9. Weiqiang Tan, Minwei Zhang, Maobin Tang, **Jintao Wang**, Chunguo Li, "A Novel CSI Feedback Scheme for Massive MIMO Systems Using Differentiable Histogram Attention Mechanism," 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-5. [Paper](https://ieeexplore.ieee.org/document/11309872)
 
 8. Weiqiang Tan, Qiang Hua Chen, **Jintao Wang**, Zheng Shi, and Chunguo Li, "LECA-Net: A Context-Aware Local Enhancement Network for Massive MIMO CSI Feedback," **IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)**, London, United Kingdom, 2025, pp. 1-6. [Paper](https://ieeexplore.ieee.org/abstract/document/11152839)
@@ -83,7 +91,6 @@ author_profile: true
 7. Weiqiang Tan, Lei Ling, Xianda Wu, **Jintao Wang**, Yunfei Li, and Chunguo Li, "RIS-Assisted MIMO Semantic Communication System for Speech Transmission," **IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)**, London, United Kingdom, 2025, pp. 1-6. [Paper](https://ieeexplore.ieee.org/abstract/document/11152944)
 
 6. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Yaru Fu, and Hong Wang, "Asymptotic Performance Analysis of FAS over Rayleigh Fading Channels," **2025 IEEE/CIC International Conference on Communications in China (ICCC)**, Shanghai, China, 2025, pp. 1-6. [Paper](https://ieeexplore.ieee.org/abstract/document/11149297)
-
 
 5. Pingping Zhang, **Jintao Wang**, Chengzhi Ma, Guanghua Yang, and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-Assisted Uplink MIMO Communications," **ICC 2025 - IEEE International Conference on Communications**, Montreal, QC, Canada, 2025, pp. 6251-6256. [Paper](https://ieeexplore.ieee.org/abstract/document/11161860)
 
@@ -116,7 +123,6 @@ author_profile: true
 - [IEEE Internet of Things Journal](https://www.letpub.com.cn/index.php?journalid=10193&page=journalapp&view=detail)
 
 - [IEEE Wireless Communications Letters](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
-
 
 
 

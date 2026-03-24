@@ -110,6 +110,7 @@ author_profile: true
     <section class="academic-card academic-card--wide">
       <h2>Contact</h2>
       <p>I am open to academic collaboration on RIS/RDARS, ISAC, optimization, and prototype-oriented wireless communication systems.</p>
+      <p>Grateful to all my collaborators and teachers for their generous support, guidance, and inspiring discussions.</p>
       <div class="academic-contact">
         <p><strong>Email</strong><span>{{ site.author.email }}</span></p>
         <p><strong>Alternate Email</strong><span>{{ site.author.email_secondary }}</span></p>

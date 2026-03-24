@@ -60,6 +60,10 @@ author_profile: true
           <span class="academic-news__date">Mar. 2026</span>
           <p>Congratulations to <strong>Lei Ling</strong> on the acceptance of the <strong>IEEE Transactions on Instrumentation and Measurement</strong> paper titled “Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”. 🎉🎉🎉</p>
         </li>
+        <li>
+          <span class="academic-news__date">Jan. 2026</span>
+          <p>Our paper titled “A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface” has been submitted to <strong>Journal of Communications and Information Networks</strong>.</p>
+        </li>
       </ol>
     </section>
 

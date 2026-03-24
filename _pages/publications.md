@@ -27,23 +27,25 @@ author_profile: true
 ## Year 2026
 
 
-20. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang, and Shaodan Ma, "Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, under review.
+21. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang, and Shaodan Ma, "Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, under review.
 
-19. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, "Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, under review.
+20. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, "Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, under review.
 
-18. Lei Ling, Maobin Tang, **Jintao Wang**, Weiqiang Tan, and Chunguo Li, "Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization," **IEEE Transactions on Instrumentation and Measurement**, early access, pp. 1-1, 2026. **(JCR Q1, IF: 5.9)** [Paper](https://ieeexplore.ieee.org/document/11449293)
+19. Lei Ling, Maobin Tang, **Jintao Wang**, Weiqiang Tan, and Chunguo Li, "Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization," **IEEE Transactions on Instrumentation and Measurement**, early access, pp. 1-1, 2026. **(JCR Q1, IF: 5.9)** [Paper](https://ieeexplore.ieee.org/document/11449293)
 
-17. **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational Method to Minimization of Completion Time," **IEEE Transactions on Vehicular Technology**, early access, pp. 1-6, 2026. **(JCR Q1, IF: 7.1)** [Paper](https://ieeexplore.ieee.org/document/11355363)
+18. **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational Method to Minimization of Completion Time," **IEEE Transactions on Vehicular Technology**, early access, pp. 1-6, 2026. **(JCR Q1, IF: 7.1)** [Paper](https://ieeexplore.ieee.org/document/11355363)
 
-16. **Jintao Wang**, Fuchao He, Zheng Shi, Da Wu, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective," accepted by **npj Wireless Technology**.
+17. **Jintao Wang**, Fuchao He, Zheng Shi, Da Wu, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective," accepted by **npj Wireless Technology**.
 
-15. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness," **IEEE Transactions on Mobile Computing**, early access, pp. 1-16, 2026. **(JCR Q1, IF: 9.2)** [Paper](https://ieeexplore.ieee.org/document/11320805)
+16. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness," **IEEE Transactions on Mobile Computing**, early access, pp. 1-16, 2026. **(JCR Q1, IF: 9.2)** [Paper](https://ieeexplore.ieee.org/document/11320805)
 
-14. Yi Zhang, **Jintao Wang**$^\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights Into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels," **IEEE Transactions on Communications**, vol. 74, pp. 2498-2514, 2026. **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/document/11310836)
+15. Yi Zhang, **Jintao Wang**$^\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights Into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels," **IEEE Transactions on Communications**, vol. 74, pp. 2498-2514, 2026. **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/document/11310836)
 
-13. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma, and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8417-8433, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11282947)
+14. Chengwang Ji, Qing Xue, Haiquan Lu, **Jintao Wang**, Qiaoyan Peng, Shaodan Ma, and Wei Zhang, "Reconfigurable Codebook-Based Beamforming for RDARS-Aided mmWave MU-MIMO Systems," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8417-8433, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11282947)
 
-12. Pingping Zhang, **Jintao Wang**$^\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre, and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-Assisted MIMO Communications With Perfect and Imperfect CSI," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8097-8113, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11271122)
+13. Pingping Zhang, **Jintao Wang**$^\*$, Chengzhi Ma, Guanghua Yang, Octavia A. Dobre, and Shaodan Ma, "Rate Maximization and Mode Selection for RDARS-Assisted MIMO Communications With Perfect and Imperfect CSI," **IEEE Transactions on Wireless Communications**, vol. 25, pp. 8097-8113, 2026. **(JCR Q1, IF: 10.7)** [Paper](https://ieeexplore.ieee.org/document/11271122)
+
+12. 刘宇翔, 王旭, 施政, **王金涛**, 杨光华, 马少丹. 基于信道容量约束的物理层安全语义通信[J]. 移动通信, 2026, 50(01): 35-43.
 
 
 ## Year 2025
@@ -133,7 +135,6 @@ author_profile: true
 - [IEEE Transactions on Instrumentation and Measurement](https://www.letpub.com.cn/index.php?journalid=3397&page=journalapp&view=detail)
 
 - [IEEE Wireless Communications Letters](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
-
 
 
 

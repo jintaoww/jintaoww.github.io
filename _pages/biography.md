@@ -71,6 +71,10 @@ author_profile: true
 
 ### Journal Referee  
 
+- IEEE Transactions on Vehicular Technology (TVT)
+
+- IEEE Transactions on Cognitive Communications and Networking (TCCN)
+
 - IEEE Transactions on Wireless Communications (TWC)  
 
 - IEEE Transactions on Communications (TCOM)  
@@ -80,18 +84,12 @@ author_profile: true
 
 ### Conference Service
 
-- Technical Program Committee (TPC) Member, IEEE VTC2026-Spring, Nice, France, Track: Signal Processing for Wireless Communications, Cooperative Communication
-
-- Technical Program Committee (TPC) Member, IEEE VTC2024-Spring, Singapore, Track: Signal Transmission and Reception
-
 - Technical Program Committee (TPC) Member, IEEE GLOBECOM 2026, Communication QoS, Reliability, and Modeling (CQRM) Symposium
 
 - Technical Program Committee (TPC) Member, IEEE ICC 2026, SAC: Integrated Sensing and Communication
 
+- Technical Program Committee (TPC) Member, IEEE VTC2026-Spring, Nice, France, Track: Signal Processing for Wireless Communications, Cooperative Communication
+
 - Session Chair, WCSP 2025, Oral Session 11: AI for Communications and Networking Symposium-II
 
-- Asia-Pacific Conference on Communications (APCC)  
-
-- International Conference on Future Communications and Networks (FCN)  
-
-- IEEE Vehicular Technology Conference (VTC)
+- Technical Program Committee (TPC) Member, IEEE VTC2024-Spring, Singapore, Track: Signal Transmission and Reception

@@ -14,8 +14,8 @@ author_profile: true
     <p class="academic-lead">I work on physical-layer transmission and algorithm design for next-generation wireless systems. My recent research focuses on massive MIMO, reconfigurable intelligent surfaces and RDARS, integrated sensing and communication, mmWave systems, and optimization-driven transceiver design.</p>
     <div class="academic-actions">
       <a class="btn" href="{{ base_path }}/publications/">Publications</a>
-      <a class="btn btn--inverse" href="{{ base_path }}/research/">Research Overview</a>
-      <a class="btn btn--inverse" href="{{ site.author.googlescholar }}">Google Scholar</a>
+      <a class="btn" href="{{ base_path }}/research/">Research Overview</a>
+      <a class="btn" href="{{ site.author.googlescholar }}">Google Scholar</a>
     </div>
   </section>
 

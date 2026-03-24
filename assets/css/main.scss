@@ -237,6 +237,60 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.95rem;
 }
 
+.academic-news {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.academic-news::before {
+  content: "";
+  position: absolute;
+  top: 0.35rem;
+  bottom: 0.35rem;
+  left: 0.38rem;
+  width: 1px;
+  background: var(--global-border-color);
+}
+
+.academic-news li {
+  position: relative;
+  margin: 0;
+  padding: 0 0 1.1rem 1.7rem;
+}
+
+.academic-news li:last-child {
+  padding-bottom: 0;
+}
+
+.academic-news li::before {
+  content: "";
+  position: absolute;
+  top: 0.28rem;
+  left: 0;
+  width: 0.8rem;
+  height: 0.8rem;
+  border: 2px solid var(--global-link-color);
+  border-radius: 999px;
+  background: var(--academic-surface-strong);
+  box-sizing: border-box;
+}
+
+.academic-news__date {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: var(--global-link-color);
+  font-family: $sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.academic-news p {
+  margin: 0;
+}
+
 .academic-section-head {
   display: flex;
   align-items: baseline;

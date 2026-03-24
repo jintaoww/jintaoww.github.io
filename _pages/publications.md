@@ -27,9 +27,11 @@ author_profile: true
 ## Year 2026
 
 
-19. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang, and Shaodan Ma, "Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, under review.
+20. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang, and Shaodan Ma, "Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, under review.
 
-18. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, "Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, under review.
+19. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, "Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, under review.
+
+18. Lei Ling, Maobin Tang, **Jintao Wang**, Weiqiang Tan, and Chunguo Li, "Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization," **IEEE Transactions on Instrumentation and Measurement**, early access, pp. 1-1, 2026. **(JCR Q1, IF: 5.9)** [Paper](https://ieeexplore.ieee.org/document/11449293)
 
 17. **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational Method to Minimization of Completion Time," **IEEE Transactions on Vehicular Technology**, early access, pp. 1-6, 2026. **(JCR Q1, IF: 7.1)** [Paper](https://ieeexplore.ieee.org/document/11355363)
 
@@ -76,6 +78,12 @@ author_profile: true
 
 
 # Conference Papers
+16. Chengwang Ji, Haiquan Lu, Qiaoyan Peng, **Jintao Wang**, and Shaodan Ma, "Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems," accepted by **2026 IEEE International Conference on Communications Workshops (ICC Workshops): 4th Workshop on Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing**, Glasgow, United Kingdom, May 2026.
+
+15. Weiqiang Tan, Minwei Zhang, **Jintao Wang**, Binggui Zhou, Xiyuan Chen, and Chunguo Li, "Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems," accepted by **IEEE INFOCOM Workshops 2026: DeepWireless 2026 - Deep Learning for Wireless Communications, Sensing, and Security**, Tokyo, Japan, May 2026.
+
+14. Fei Cheng, **Jintao Wang**, Hang Liu, and Shaodan Ma, "Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources," accepted by **2026 IEEE 103rd Vehicular Technology Conference (VTC2026-Spring)**, Nice, France, Jun. 2026.
+
 13. **Jintao Wang**, Da Wu, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Decentralized Multi-Agent Deep Reinforcement Learning Based Rate Selection of NOMA Assisted XP-HARQ," accepted by **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, Chongqing, China, Oct. 2025.
 
 12. Zhonghao Li, **Jintao Wang**, Zheng Shi, Xu Wang, Hong Wang, Yaru Fu, and Haichuan Ding, "Implementation of a HARQ-Assisted Hybrid SCMA-OMA System Using USRP," accepted by **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, Chongqing, China, Oct. 2025.
@@ -122,8 +130,9 @@ author_profile: true
 
 - [IEEE Internet of Things Journal](https://www.letpub.com.cn/index.php?journalid=10193&page=journalapp&view=detail)
 
-- [IEEE Wireless Communications Letters](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
+- [IEEE Transactions on Instrumentation and Measurement](https://www.letpub.com.cn/index.php?journalid=3397&page=journalapp&view=detail)
 
+- [IEEE Wireless Communications Letters](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
 
 
 

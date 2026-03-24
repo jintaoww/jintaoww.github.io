@@ -42,6 +42,28 @@ author_profile: true
     </section>
 
     <section class="academic-card academic-card--wide">
+      <h2>News</h2>
+      <ol class="academic-news">
+        <li>
+          <span class="academic-news__date">Mar. 2026</span>
+          <p>祝贺第一作者Lei Ling的IEEE Transactions on Instrumentation and Measurement期刊论文题目“Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”接收。</p>
+        </li>
+        <li>
+          <span class="academic-news__date">May 2026</span>
+          <p>祝贺第一作者Chengwang Ji的ICC Workshops 2026会议论文题目“Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”接收。</p>
+        </li>
+        <li>
+          <span class="academic-news__date">May 2026</span>
+          <p>祝贺第一作者Weiqiang Tan的IEEE INFOCOM Workshops 2026 DeepWireless会议论文题目“Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”接收。</p>
+        </li>
+        <li>
+          <span class="academic-news__date">Jun. 2026</span>
+          <p>祝贺第一作者Fei Cheng的VTC2026-Spring会议论文题目“Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”接收。</p>
+        </li>
+      </ol>
+    </section>
+
+    <section class="academic-card academic-card--wide">
       <div class="academic-section-head">
         <h2>Selected Recent Publications</h2>
         <a href="{{ base_path }}/publications/">Full list</a>

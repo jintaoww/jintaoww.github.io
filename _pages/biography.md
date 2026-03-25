@@ -84,6 +84,8 @@ author_profile: true
 
 ### Conference Service
 
+- Organizing Committee Member, 2026 IEEE 26th International Conference on Communication Technology (ICCT 2026), Zhuhai, China
+
 - TPC Member, IEEE GLOBECOM 2026, Symposia: Communication QoS, Reliability, and Modeling (CQRM)
 
 - TPC Member, IEEE ICC 2026, Track: Integrated Sensing and Communication

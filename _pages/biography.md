@@ -84,12 +84,12 @@ author_profile: true
 
 ### Conference Service
 
-- Technical Program Committee (TPC) Member, IEEE GLOBECOM 2026, Communication QoS, Reliability, and Modeling (CQRM) Symposium
+- TPC Member, IEEE GLOBECOM 2026, Symposia: Communication QoS, Reliability, and Modeling (CQRM)
 
-- Technical Program Committee (TPC) Member, IEEE ICC 2026, SAC: Integrated Sensing and Communication
+- TPC Member, IEEE ICC 2026, Track: Integrated Sensing and Communication
 
-- Technical Program Committee (TPC) Member, IEEE VTC2026-Spring, Nice, France, Track: Signal Processing for Wireless Communications, Cooperative Communication
+- TPC Member, IEEE VTC2026-Spring, Nice, France, Track: Signal Processing for Wireless Communications, Cooperative Communication
+
+- TPC Member, IEEE VTC2024-Spring, Singapore, Track: Signal Transmission and Reception
 
 - Session Chair, WCSP 2025, Oral Session 11: AI for Communications and Networking Symposium-II
-
-- Technical Program Committee (TPC) Member, IEEE VTC2024-Spring, Singapore, Track: Signal Transmission and Reception

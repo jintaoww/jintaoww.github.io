@@ -116,11 +116,11 @@ author_profile: true
 
 # Patents
 
-2. Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "基于主被动混合智能超表面的无线通信传输方法及系统 (A Distributed Hybrid RIS Enhanced Massive MIMO Wireless Communication System)," ZL202310107994.6, CN116056118B.
+2. 马少丹，阳析，马成志，周炳贵，**王金涛**. 基于主被动混合智能超表面的无线通信传输方法及系统[P]. 中国，ZL 2023 1 0107994.6，2025-03-28（已授权；授权公告号：CN 116056118 B）.
 
 
 
-1. Shaodan Ma, Xi Yang, Chengzhi Ma, Binggui Zhou, **Jintao Wang**, "一种基于增强型分布式主被动混合智能超表面的无线通信传输系统 (An Enhanced Distributed Hybrid-Active-Passive Reconfigurable Intelligent Surface assisted Wireless Communication System)," submitted, 2024. 
+1. 马少丹，阳析，马成志，周炳贵，**王金涛**. 基于增强型分布式主被动混合智能超表面的无线通信系统[P]. 中国，CN202411238160.X，2024-09-05（实质审查）.
 
 ## Note: Journal Information
 
@@ -135,6 +135,5 @@ author_profile: true
 - [IEEE Transactions on Instrumentation and Measurement](https://www.letpub.com.cn/index.php?journalid=3397&page=journalapp&view=detail)
 
 - [IEEE Wireless Communications Letters](https://www.letpub.com.cn/index.php?journalid=10241&page=journalapp&view=detail)
-
 
 

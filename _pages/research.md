@@ -10,27 +10,20 @@ author_profile: true
 
 ## Research Overview
 
-My research focuses on physical-layer technologies for next-generation wireless systems, with an emphasis on intelligent radio environments, sensing-communication integration, and optimization-driven transceiver design. I am particularly interested in bridging rigorous signal processing theory with prototype-oriented validation.
+My research focuses on physical-layer transmission and algorithm design for next-generation wireless communications. My recent research focuses on low-altitude communications, massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.
 
 ## Research Themes
 
 ### Reconfigurable Intelligent Environments
 
-- RIS, hybrid RIS, and RDARS architectures for flexible wireless coverage and capacity enhancement
-- Joint beamforming, mode selection, and antenna design under practical CSI constraints
-- Robust transmission strategies for intelligent surfaces with imperfect hardware and channel knowledge
 
 ### Integrated Sensing and Communication
 
-- ISAC-oriented transceiver and trajectory design for reliable dual-function operation
-- Localization, beam scanning, and sensing-aware resource allocation
-- Completion-time and power optimization for mobile sensing-communication platforms
+
 
 ### Practical MIMO and Prototype Systems
 
-- Massive MIMO and mmWave transceiver design with hardware impairments
-- Prototype development and experimental validation for wireless communication platforms
-- Learning-assisted signal processing for practical beam training, tracking, and CSI feedback
+
 
 ## Representative Demonstrations
 

@@ -27,9 +27,12 @@ author_profile: true
 ## Year 2026
 
 
-21. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang, and Shaodan Ma, "Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, under review.
 
-20. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, "Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, under review.
+22. Zhanfeng Zhong, **Jintao Wang**, Zheng Shi, Xu Wang, Yunfei Li, Guanghua Yang, and Shaodan Ma, "Completion Time Minimization for ISAC: Joint Trajectory Planning and Power Optimization," submitted to **IEEE Wireless Communications Letters**, under review.
+
+21. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, "Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, under review.
+
+20. Jintao Wang, Pingping  Zhang,  Chengzhi Ma,  Chengwang Ji,  Zheng Shi,  Guanghua Yang, and  Shaodan  Ma, "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface," accepted by **Journal of Communications and Information Networks**.
 
 19. Lei Ling, Maobin Tang, **Jintao Wang**, Weiqiang Tan, and Chunguo Li, "Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization," **IEEE Transactions on Instrumentation and Measurement**, early access, pp. 1-1, 2026. **(JCR Q1, IF: 5.9)** [Paper](https://ieeexplore.ieee.org/document/11449293)
 

@@ -8,10 +8,10 @@ author_profile: true
 
 <div class="academic-home">
   <section class="academic-hero">
-    <p class="academic-eyebrow">Wireless Communications | Intelligent Radio Environments | Optimization</p>
+    <p class="academic-eyebrow">Wireless Communications | Intelligent Communications | Optimization</p>
     <h1>Jintao Wang</h1>
     <p class="academic-subtitle">Postdoctoral Fellow, {{ site.author.group }}, {{ site.author.employer }}</p>
-    <p class="academic-lead">I work on physical-layer transmission and algorithm design for next-generation wireless systems. My recent research focuses on massive MIMO, reconfigurable intelligent surfaces and RDARS, integrated sensing and communication, mmWave systems, and optimization-driven transceiver design.</p>
+    <p class="academic-lead">I work on physical-layer transmission and algorithm design for next-generation wireless communications. My recent research focuses on low-altitude communications, massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.</p>
     <div class="academic-actions">
       <a class="btn" href="{{ base_path }}/publications/">Publications</a>
       <a class="btn" href="{{ base_path }}/research/">Research Overview</a>
@@ -35,25 +35,33 @@ author_profile: true
     <section class="academic-card">
       <h2>Academic Background</h2>
       <ul class="academic-timeline">
-        <li><strong>Postdoctoral Fellow</strong><span>2025-Present, University of Macau</span></li>
+        <li><strong>Postdoctoral Fellow</strong><span>2024-Present, University of Macau</span></li>
         <li><strong>Ph.D. in Electrical and Computer Engineering</strong><span>2024, University of Macau</span></li>
         <li><strong>B.Eng. in Communication Engineering</strong><span>2020, Jilin University</span></li>
       </ul>
     </section>
-
+    
     <section class="academic-card academic-card--wide">
       <h2>News</h2>
       <ol class="academic-news">
         <li>
-          <span class="academic-news__date">Jun. 2026</span>
+          <span class="academic-news__date">Apr. 2026</span>
+          <p>Our paper titled “A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface” has been accepted by <strong>Journal of Communications and Information Networks</strong>. 🎉🎉🎉</p>
+        </li>
+        <li>
+          <span class="academic-news__date">Apr. 2026</span>
+          <p>Congratulations to <strong>Yi Zhang</strong> on the acceptance of the <strong>VTC2026-Spring</strong> paper titled “Asymptotic Outage Performance of RIS-aided FAS Over Rayleigh Fading Channels”. 🎉🎉🎉</p>
+        </li>
+        <li>
+          <span class="academic-news__date">Mar. 2026</span>
           <p>Congratulations to <strong>Fei Cheng</strong> on the acceptance of the <strong>VTC2026-Spring</strong> paper titled “Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”. 🎉🎉🎉</p>
         </li>
         <li>
-          <span class="academic-news__date">May 2026</span>
+          <span class="academic-news__date">Mar. 2026</span>
           <p>Congratulations to <strong>Chengwang Ji</strong> on the acceptance of the <strong>ICC Workshops 2026</strong> paper titled “Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”. 🎉🎉🎉</p>
         </li>
         <li>
-          <span class="academic-news__date">May 2026</span>
+          <span class="academic-news__date">Mar. 2026</span>
           <p>Congratulations to <strong>Weiqiang Tan</strong> on the acceptance of the <strong>IEEE INFOCOM Workshops 2026 DeepWireless</strong> paper titled “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”. 🎉🎉🎉</p>
         </li>
         <li>
@@ -66,7 +74,7 @@ author_profile: true
         </li>
       </ol>
     </section>
-
+    
     <section class="academic-card academic-card--wide">
       <div class="academic-section-head">
         <h2>Selected Recent Publications</h2>
@@ -92,11 +100,11 @@ author_profile: true
       </ol>
       <p class="academic-note">A complete list of journal papers, conference papers, and patents is available on the publications page.</p>
     </section>
-
+    
     <section class="academic-card academic-card--wide">
       <h2>Contact</h2>
-      <p>I am open to academic collaboration on RIS/RDARS, ISAC, optimization, and prototype-oriented wireless communication systems.</p>
-      <p>Grateful to all my collaborators and teachers for their generous support, guidance, and inspiring discussions.</p>
+      <p>Open to academic collaboration on RIS/RDARS, ISAC, optimization, and prototype-oriented wireless communication systems.</p>
+      <p>Grateful to all my collaborators for their generous support, guidance, and inspiring discussions.</p>
       <div class="academic-contact">
         <p><strong>Email</strong><span>{{ site.author.email }}</span></p>
         <p><strong>Alternate Email</strong><span>{{ site.author.email_secondary }}</span></p>

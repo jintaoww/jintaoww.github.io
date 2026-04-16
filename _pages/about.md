@@ -46,27 +46,27 @@ author_profile: true
       <ol class="academic-news">
         <li>
           <span class="academic-news__date">Apr. 2026</span>
-          <p>Our paper titled “A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface” has been accepted by <strong>Journal of Communications and Information Networks</strong>. 🎉🎉🎉</p>
+          <p>🔥🔥🔥 Our paper titled “A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface” has been accepted by <strong>Journal of Communications and Information Networks</strong>. </p>
         </li>
         <li>
           <span class="academic-news__date">Apr. 2026</span>
-          <p>Congratulations to <strong>Yi Zhang</strong> on the acceptance of the <strong>VTC2026-Spring</strong> paper titled “Asymptotic Outage Performance of RIS-aided FAS Over Rayleigh Fading Channels”. 🎉🎉🎉</p>
+          <p>🎉🎉🎉 Congratulations to <strong>Yi Zhang</strong> on the acceptance of the <strong>VTC2026-Spring</strong> paper titled “Asymptotic Outage Performance of RIS-aided FAS Over Rayleigh Fading Channels”. </p>
         </li>
         <li>
           <span class="academic-news__date">Mar. 2026</span>
-          <p>Congratulations to <strong>Fei Cheng</strong> on the acceptance of the <strong>VTC2026-Spring</strong> paper titled “Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”. 🎉🎉🎉</p>
+          <p>🎉🎉🎉 Congratulations to <strong>Fei Cheng</strong> on the acceptance of the <strong>VTC2026-Spring</strong> paper titled “Tensorial Hankelization for 2-D DOA Estimation of Coherent Sources”. </p>
         </li>
         <li>
           <span class="academic-news__date">Mar. 2026</span>
-          <p>Congratulations to <strong>Chengwang Ji</strong> on the acceptance of the <strong>ICC Workshops 2026</strong> paper titled “Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”. 🎉🎉🎉</p>
+          <p>🎉🎉🎉 Congratulations to <strong>Chengwang Ji</strong> on the acceptance of the <strong>ICC Workshops 2026</strong> paper titled “Joint Waveform and Mode Switching Design for RDARS-Aided Integrated Sensing and Communication Systems”. </p>
         </li>
         <li>
           <span class="academic-news__date">Mar. 2026</span>
-          <p>Congratulations to <strong>Weiqiang Tan</strong> on the acceptance of the <strong>IEEE INFOCOM Workshops 2026 DeepWireless</strong> paper titled “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”. 🎉🎉🎉</p>
+          <p>🎉🎉🎉 Congratulations to <strong>Weiqiang Tan</strong> on the acceptance of the <strong>IEEE INFOCOM Workshops 2026 DeepWireless</strong> paper titled “Sequence-Model-Based Joint CSI Feedback and Dynamic Multiuser Precoding for FDD Massive MIMO Systems”. </p>
         </li>
         <li>
           <span class="academic-news__date">Mar. 2026</span>
-          <p>Congratulations to <strong>Lei Ling</strong> on the acceptance of the <strong>IEEE Transactions on Instrumentation and Measurement</strong> paper titled “Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”. 🎉🎉🎉</p>
+          <p>🎉🎉🎉 Congratulations to <strong>Lei Ling</strong> on the acceptance of the <strong>IEEE Transactions on Instrumentation and Measurement</strong> paper titled “Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization”. </p>
         </li>
         <li>
           <span class="academic-news__date">Jan. 2026</span>

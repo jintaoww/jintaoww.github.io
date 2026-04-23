@@ -46,6 +46,10 @@ author_profile: true
       <ol class="academic-news">
         <li>
           <span class="academic-news__date">Apr. 2026</span>
+          <p>🎉🎉🎉 Congratulations to <strong>Chengwang Ji</strong> on the acceptance of the <strong>IEEE Wireless Communications Letters</strong> paper titled “Joint Sparsity and Beamforming Design for RDARS-Aided Systems”. </p>
+        </li>
+        <li>
+          <span class="academic-news__date">Apr. 2026</span>
           <p>🔥🔥🔥 Our paper titled “A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface” has been accepted by <strong>Journal of Communications and Information Networks</strong>. </p>
         </li>
         <li>

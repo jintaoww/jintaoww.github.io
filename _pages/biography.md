@@ -36,10 +36,7 @@ author_profile: true
 
 # Professional Experience  
 
-- **Mar. 2025 - Now**: Post-doctoral Fellow in [SKL-IOTSC](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/)
-
-- **Aug. 2024 - Feb. 2025**: Research Assistant in [SKL-IOTSC](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/) 
-
+- **Aug. 2024 - Jun. 2026**: Post-doctoral Fellow in [SKL-IOTSC](https://skliotsc.um.edu.mo/), [University of Macau](https://www.um.edu.mo/)
 - **Sep. 2022 - Nov. 2022**: Intern in [Beijing Zengyi Technology Company](http://www.zengyi-tech.com/wzsy) 
 
 # Education  

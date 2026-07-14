@@ -10,7 +10,7 @@ author_profile: true
   <section class="academic-hero">
     <p class="academic-eyebrow">Wireless Communications | Spatial Intelligence | Optimization</p>
     <h1>Jintao Wang</h1>
-    <p class="academic-subtitle">Lecturer, {{ site.author.group }}, {{ site.author.employer }}</p>
+    <p class="academic-subtitle"> {{ site.author.group }} {{ site.author.employer }}</p>
     <p class="academic-lead">I work on physical-layer transmission and algorithm design for next-generation wireless communications. My recent research focuses on low-altitude communications, spatial intelligence, massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.</p>
     <div class="academic-actions">
       <a class="btn" href="{{ base_path }}/publications/">Publications</a>

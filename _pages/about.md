@@ -94,12 +94,20 @@ author_profile: true
       </div>
       <ol class="academic-publications">
         <li>
+          <span class="academic-pub-meta">2026 | Journal of Communications and Information Networks</span>
+          <a href="http://www.jcin.com.cn/zh/article/doi/10.23919/JCIN.2026.11604010/">A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface</a>
+        </li>
+        <li>
           <span class="academic-pub-meta">2026 | IEEE Transactions on Vehicular Technology</span>
           <a href="https://ieeexplore.ieee.org/document/11355363">Trajectory Planning for ISAC Systems: Variational Method to Minimization of Completion Time</a>
         </li>
         <li>
-          <span class="academic-pub-meta">2026 | IEEE Transactions on Wireless Communications</span>
-          <a href="https://ieeexplore.ieee.org/document/11271122">Rate Maximization and Mode Selection for RDARS-assisted MIMO Communications With Perfect and Imperfect CSI</a>
+          <span class="academic-pub-meta">2026 | npj Wireless Technology</span>
+          <a href="https://www.nature.com/articles/s44459-025-00024-9">Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective</a>
+        </li>
+        <li>
+          <span class="academic-pub-meta">2025 | IEEE Transactions on Vehicular Technology</span>
+          <a href="https://ieeexplore.ieee.org/abstract/document/10981669">Robust Beamforming Design and Antenna Selection for Dynamic HRIS-Aided MISO Systems</a>
         </li>
         <li>
           <span class="academic-pub-meta">2024 | IEEE Transactions on Wireless Communications</span>
@@ -117,4 +125,20 @@ author_profile: true
       <h2>Contact</h2>
       <p>Open to academic collaboration on Spatial intelligence, RIS/RDARS, ISAC, optimization, and prototype-oriented wireless communication systems.</p>
       <p>Grateful to all my collaborators for their generous support, guidance, and inspiring discussions.</p>
-      <div cla
+      <div class="academic-contact">
+        <p><strong>Email</strong><span>{{ site.author.email }}</span></p>
+        <p><strong>Alternate Email</strong><span>{{ site.author.email_secondary }}</span></p>
+        <p><strong>Office</strong><span>{{ site.author.office }}</span></p>
+        <p><strong>Address</strong><span>{{ site.author.address }}</span></p>
+      </div>
+      <div class="academic-visitor-map">
+        <p class="academic-visitor-map__title">Visitor Map</p>
+        <script
+          type="text/javascript"
+          id="clustrmaps"
+          src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=tt&d=eaDNHe07DDvU8-ERxcx4XBalmsAS-BHZbz2OnbQyz74&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9">
+        </script>
+      </div>
+    </section>
+  </div>
+</div>

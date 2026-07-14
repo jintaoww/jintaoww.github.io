@@ -45,7 +45,11 @@ author_profile: true
       <h2>News</h2>
       <ol class="academic-news">
         <li>
-          <span class="academic-news__date">Apr. 2026</span>
+          <span class="academic-news__date">July. 2026</span>
+          <p>🎉🎉🎉 Congratulations to <strong>Mr. Zhanfeng Zhong</strong> on the acceptance of the <strong>IEEE ICCT 2026</strong> conference paper titled “Cumulative Sensing-Aware Path Planning in Networked MIMO-ISAC Systems”. </p>
+        </li>
+        <li>
+          <span class="academic-news__date">July. 2026</span>
           <p>❤️‍🔥❤️‍🔥❤️‍🔥 Congratulations! Our paper titled “A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface” has been selected as the <strong>Cover Paper</strong> in <strong>Journal of Communications and Information Networks</strong>, Vol. 11, No. 2, 2026. </p>
         </li>
         <li>

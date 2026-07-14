@@ -32,17 +32,17 @@ author_profile: true
 
 22. Yi Zhang, **Jintao Wang**, Zheng Shi, Xu Wang, Guanghua Yang, Shaodan Ma, and Kai-Kit Wong, "Asymptotic Performance Analysis of Fluid Antenna Systems: An Extreme Value Theory Perspective," submitted to **IEEE Transactions on Vehicular Technology**, Major Revision.
 
-21. Chengwang Ji,   Haiquan Lu,   Qiaoyan Peng,  **Jintao Wang**, and Shaodan Ma, "Joint Sparsity and Beamforming Design for RDARS-Aided Systems," accepted by **IEEE Wireless Communications Letters**.
+21. Chengwang Ji,   Haiquan Lu,   Qiaoyan Peng,  **Jintao Wang**, and Shaodan Ma, "Joint Sparsity and Beamforming Design for RDARS-Aided Systems," **IEEE Wireless Communications Letters**, vol. 15, pp. 2934-2938, 2026. [Paper](https://ieeexplore.ieee.org/document/11494031)
 
-20. **Jintao Wang**, Pingping  Zhang,  Chengzhi Ma,  Chengwang Ji,  Zheng Shi,  Guanghua Yang, and  Shaodan  Ma, "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface," accepted by **Journal of Communications and Information Networks**.
+20. **Jintao Wang**, Pingping  Zhang,  Chengzhi Ma,  Chengwang Ji,  Zheng Shi,  Guanghua Yang, and  Shaodan  Ma, "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface," **Journal of Communications and Information Networks**, 2026, 11(2): 219-230. [Paper](http://www.jcin.com.cn/zh/article/doi/10.23919/JCIN.2026.11604010/)
 
-19. Lei Ling, Maobin Tang, **Jintao Wang**, Weiqiang Tan, and Chunguo Li, "Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization," **IEEE Transactions on Instrumentation and Measurement**, early access, pp. 1-1, 2026. **(JCR Q1, IF: 5.9)** [Paper](https://ieeexplore.ieee.org/document/11449293)
+19. Lei Ling, Maobin Tang, **Jintao Wang**, Weiqiang Tan, and Chunguo Li, "Error-Based Filtering and Adaptive Weighting for Real-Time DL-TDoA Localization," **IEEE Transactions on Instrumentation and Measurement**, vol. 75, pp. 1-11, 2026, Art no. 5500911. **(JCR Q1, IF: 5.9)** [Paper](https://ieeexplore.ieee.org/document/11449293)
 
 18. **Jintao Wang**, Zheng Shi, Hong Wang, Yaru Fu, Xinrong Ye, Shaodan Ma, and Guanghua Yang, "Trajectory Planning for ISAC Systems: Variational Method to Minimization of Completion Time," **IEEE Transactions on Vehicular Technology**, early access, pp. 1-6, 2026. **(JCR Q1, IF: 7.1)** [Paper](https://ieeexplore.ieee.org/document/11355363)
 
-17. **Jintao Wang**, Fuchao He, Zheng Shi, Da Wu, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective," accepted by **npj Wireless Technology**.
+17. **Jintao Wang**, Fuchao He, Zheng Shi, Da Wu, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Rate Adaption of XP-HARQ Assisted NOMA: A Decentralized Multi-Agent DRL Perspective," **npj Wireless Technology**, 2, 18 (2026). [Paper](https://www.nature.com/articles/s44459-025-00024-9)
 
-16. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness," **IEEE Transactions on Mobile Computing**, early access, pp. 1-16, 2026. **(JCR Q1, IF: 9.2)** [Paper](https://ieeexplore.ieee.org/document/11320805)
+16. Fuchao He, **Jintao Wang**$^\*$, Zheng Shi, Yaru Fu, Guanghua Yang, and Shaodan Ma, "HARQ-IR Aided Non-Orthogonal Multiple Access for URLLC: Tradeoff Between Transmission Reliability and Data Freshness," **IEEE Transactions on Mobile Computing**, vol. 25, no. 6, pp. 8524-8540, June 2026. **(JCR Q1, IF: 9.2)** [Paper](https://ieeexplore.ieee.org/document/11320805)
 
 15. Yi Zhang, **Jintao Wang**$^\*$, Zheng Shi, Xu Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma, "Asymptotic Insights Into Outage Probability of Multi-Cascaded RISs Over Doubly-Correlated MIMO Fading Channels," **IEEE Transactions on Communications**, vol. 74, pp. 2498-2514, 2026. **(JCR Q1, IF: 8.3)** [Paper](https://ieeexplore.ieee.org/document/11310836)
 

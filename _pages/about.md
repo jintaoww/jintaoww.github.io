@@ -117,20 +117,4 @@ author_profile: true
       <h2>Contact</h2>
       <p>Open to academic collaboration on Spatial intelligence, RIS/RDARS, ISAC, optimization, and prototype-oriented wireless communication systems.</p>
       <p>Grateful to all my collaborators for their generous support, guidance, and inspiring discussions.</p>
-      <div class="academic-contact">
-        <p><strong>Email</strong><span>{{ site.author.email }}</span></p>
-        <p><strong>Alternate Email</strong><span>{{ site.author.email_secondary }}</span></p>
-        <p><strong>Office</strong><span>{{ site.author.office }}</span></p>
-        <p><strong>Address</strong><span>{{ site.author.address }}</span></p>
-      </div>
-      <div class="academic-visitor-map">
-        <p class="academic-visitor-map__title">Visitor Map</p>
-        <script
-          type="text/javascript"
-          id="clustrmaps"
-          src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=tt&d=eaDNHe07DDvU8-ERxcx4XBalmsAS-BHZbz2OnbQyz74&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9">
-        </script>
-      </div>
-    </section>
-  </div>
-</div>
+      <div cla

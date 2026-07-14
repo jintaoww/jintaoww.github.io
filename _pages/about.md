@@ -8,10 +8,10 @@ author_profile: true
 
 <div class="academic-home">
   <section class="academic-hero">
-    <p class="academic-eyebrow">Wireless Communications | Intelligent Communications | Optimization</p>
+    <p class="academic-eyebrow">Wireless Communications | Spatial Intelligence | Optimization</p>
     <h1>Jintao Wang</h1>
-    <p class="academic-subtitle">Postdoctoral Fellow, {{ site.author.group }}, {{ site.author.employer }}</p>
-    <p class="academic-lead">I work on physical-layer transmission and algorithm design for next-generation wireless communications. My recent research focuses on low-altitude communications, massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.</p>
+    <p class="academic-subtitle">Lecturer, {{ site.author.group }}, {{ site.author.employer }}</p>
+    <p class="academic-lead">I work on physical-layer transmission and algorithm design for next-generation wireless communications. My recent research focuses on low-altitude communications, spatial intelligence, massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.</p>
     <div class="academic-actions">
       <a class="btn" href="{{ base_path }}/publications/">Publications</a>
       <a class="btn" href="{{ base_path }}/research/">Research Overview</a>
@@ -24,7 +24,7 @@ author_profile: true
       <h2>Research Interests</h2>
       <ul class="academic-list">
         <li>Massive MIMO and mmWave communication</li>
-        <li>Reconfigurable intelligent surfaces, hybrid RIS, and RDARS</li>
+        <li>Spatial Intelligence</li>
         <li>Integrated sensing and communication (ISAC)</li>
         <li>Robust beamforming, antenna selection, and transceiver design</li>
         <li>Optimization methods for wireless resource allocation</li>
@@ -35,7 +35,7 @@ author_profile: true
     <section class="academic-card">
       <h2>Academic Background</h2>
       <ul class="academic-timeline">
-        <li><strong>Postdoctoral Fellow</strong><span>2024-Present, University of Macau</span></li>
+        <li><strong>Postdoctoral Fellow</strong><span>2024-2026, University of Macau</span></li>
         <li><strong>Ph.D. in Electrical and Computer Engineering</strong><span>2024, University of Macau</span></li>
         <li><strong>B.Eng. in Communication Engineering</strong><span>2020, Jilin University</span></li>
       </ul>
@@ -44,6 +44,10 @@ author_profile: true
     <section class="academic-card academic-card--wide">
       <h2>News</h2>
       <ol class="academic-news">
+        <li>
+          <span class="academic-news__date">Apr. 2026</span>
+          <p>❤️‍🔥❤️‍🔥❤️‍🔥 Congratulations! Our paper titled “A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface” has been selected as the <strong>Cover Paper</strong> in <strong>Journal of Communications and Information Networks</strong>, Vol. 11, No. 2, 2026. </p>
+        </li>
         <li>
           <span class="academic-news__date">Apr. 2026</span>
           <p>🎉🎉🎉 Congratulations to <strong>Chengwang Ji</strong> on the acceptance of the <strong>IEEE Wireless Communications Letters</strong> paper titled “Joint Sparsity and Beamforming Design for RDARS-Aided Systems”. </p>
@@ -107,7 +111,7 @@ author_profile: true
     
     <section class="academic-card academic-card--wide">
       <h2>Contact</h2>
-      <p>Open to academic collaboration on RIS/RDARS, ISAC, optimization, and prototype-oriented wireless communication systems.</p>
+      <p>Open to academic collaboration on Spatial intelligence, RIS/RDARS, ISAC, optimization, and prototype-oriented wireless communication systems.</p>
       <p>Grateful to all my collaborators for their generous support, guidance, and inspiring discussions.</p>
       <div class="academic-contact">
         <p><strong>Email</strong><span>{{ site.author.email }}</span></p>
